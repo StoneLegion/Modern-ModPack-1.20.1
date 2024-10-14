@@ -5,7 +5,7 @@
 	#-------------------------------------------
 	#Default: true
 	#-------------------------------------------
-	"Boolean: Test Boolean 1" = true
+	"Boolean: Test Boolean 1" = false
 
 [Capes]
 	#
@@ -14,4 +14,4 @@
 	#-------------------------------------------
 	#Default: true
 	#-------------------------------------------
-	"Boolean: est Boolean 2" = true
+	"Boolean: est Boolean 2" = false
