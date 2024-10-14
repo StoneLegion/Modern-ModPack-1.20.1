@@ -2,7 +2,7 @@
   "type": "minecraft:disk",
   "config": {
     "half_height": 1,
-    "radius": 1,
+    "radius": 0,
     "state_provider": {
       "fallback": {
         "type": "minecraft:simple_state_provider",
