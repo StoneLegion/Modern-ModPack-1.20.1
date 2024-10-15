@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:planks"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    },
+    "c": {
+      "item": "fishermans_haven:string_mesh"
+    }
+  },
+  "result": {
+    "id": "fishermans_haven:basic_fish_trap",
+    "count": 1
+  }
+}

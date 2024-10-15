@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "fishermans_haven:fishermans_knife"
+    },
+    {
+      "tag": "fishermans_haven:fish"
+    }
+  ],
+  "result": {
+    "id": "fishermans_haven:fish_fillet",
+    "count": 2
+  }
+}

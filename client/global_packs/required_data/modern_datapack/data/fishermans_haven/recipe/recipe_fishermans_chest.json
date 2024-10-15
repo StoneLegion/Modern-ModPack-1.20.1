@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "b b",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "b": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "id": "fishermans_haven:fishermans_chest",
+    "count": 1
+  }
+}

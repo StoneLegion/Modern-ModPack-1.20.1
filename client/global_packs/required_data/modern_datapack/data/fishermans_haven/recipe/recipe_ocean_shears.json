@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    " a ",
+    "b b"
+  ],
+  "key": {
+    "a": {
+      "item": "fishermans_haven:pearl"
+    },
+    "b": {
+      "item": "minecraft:lapis_lazuli"
+    }
+  },
+  "result": {
+    "id": "fishermans_haven:ocean_shears",
+    "count": 1
+  }
+}
