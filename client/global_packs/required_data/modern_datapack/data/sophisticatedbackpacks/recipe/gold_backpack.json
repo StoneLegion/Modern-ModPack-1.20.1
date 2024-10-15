@@ -12,7 +12,7 @@
       "item": "sophisticatedbackpacks:iron_backpack"
     },
     "G": {
-      "tag": "c:ingots/gold"
+      "item": "gtceu:gold_plate"
     }
   },
   "pattern": [

@@ -9,13 +9,13 @@
   "category": "misc",
   "key": {
     "G": {
-      "tag": "c:ingots/gold"
+      "item": "gtceu:gold_plate"
     },
     "P": {
       "item": "sophisticatedbackpacks:filter_upgrade"
     },
     "R": {
-      "tag": "c:dusts/redstone"
+      "item": "gtceu:red_alloy_plate"
     }
   },
   "pattern": [

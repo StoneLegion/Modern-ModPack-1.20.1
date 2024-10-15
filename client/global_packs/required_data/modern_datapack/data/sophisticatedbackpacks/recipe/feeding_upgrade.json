@@ -18,7 +18,7 @@
       "item": "minecraft:golden_carrot"
     },
     "E": {
-      "tag": "c:ender_pearls"
+      "item": "gtceu:ender_pearl_plate"
     },
     "M": {
       "item": "minecraft:glistering_melon_slice"

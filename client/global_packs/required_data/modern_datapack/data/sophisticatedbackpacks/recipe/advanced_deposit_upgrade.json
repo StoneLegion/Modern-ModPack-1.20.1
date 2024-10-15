@@ -9,13 +9,13 @@
   "category": "misc",
   "key": {
     "D": {
-      "tag": "c:gems/diamond"
+      "item": "gtceu:diamond_plate"
     },
     "G": {
-      "tag": "c:ingots/gold"
+      "item": "gtceu:gold_plate"
     },
     "R": {
-      "tag": "c:dusts/redstone"
+      "item": "gtceu:red_alloy_plate"
     },
     "V": {
       "item": "sophisticatedbackpacks:deposit_upgrade"

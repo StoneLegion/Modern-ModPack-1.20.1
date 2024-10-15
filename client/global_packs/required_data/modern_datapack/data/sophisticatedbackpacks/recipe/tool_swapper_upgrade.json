@@ -15,13 +15,13 @@
       "item": "sophisticatedbackpacks:upgrade_base"
     },
     "I": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:iron_plate"
     },
     "P": {
       "item": "minecraft:wooden_pickaxe"
     },
     "R": {
-      "tag": "c:dusts/redstone"
+      "item": "gtceu:red_alloy_plate"
     },
     "S": {
       "item": "minecraft:wooden_shovel"

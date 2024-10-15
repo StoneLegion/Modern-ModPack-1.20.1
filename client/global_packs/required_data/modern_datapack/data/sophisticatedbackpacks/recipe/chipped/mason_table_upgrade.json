@@ -16,10 +16,10 @@
       "item": "sophisticatedbackpacks:upgrade_base"
     },
     "I": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:iron_plate"
     },
     "R": {
-      "tag": "c:dusts/redstone"
+      "item": "gtceu:red_alloy_plate"
     },
     "W": {
       "item": "chipped:mason_table"

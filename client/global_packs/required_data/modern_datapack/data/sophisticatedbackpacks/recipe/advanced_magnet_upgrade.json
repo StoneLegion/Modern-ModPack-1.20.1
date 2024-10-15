@@ -9,19 +9,19 @@
   "category": "misc",
   "key": {
     "E": {
-      "tag": "c:ender_pearls"
+      "item": "gtceu:ender_pearl_plate"
     },
     "I": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:iron_plate"
     },
     "L": {
-      "tag": "c:gems/lapis"
+      "item": "gtceu:lapis_plate"
     },
     "P": {
       "item": "sophisticatedbackpacks:advanced_pickup_upgrade"
     },
     "R": {
-      "tag": "c:dusts/redstone"
+      "item": "gtceu:red_alloy_plate"
     }
   },
   "pattern": [

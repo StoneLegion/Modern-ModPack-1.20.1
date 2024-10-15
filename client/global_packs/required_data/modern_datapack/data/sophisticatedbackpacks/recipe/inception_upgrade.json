@@ -12,13 +12,13 @@
       "item": "sophisticatedbackpacks:upgrade_base"
     },
     "D": {
-      "tag": "c:gems/diamond"
+      "item": "gtceu:diamond_plate"
     },
     "E": {
-      "item": "minecraft:ender_eye"
+      "item": "gtceu:ender_eye_plate"
     },
     "S": {
-      "tag": "c:nether_stars"
+      "item": "gtceu:nether_start_plate"
     }
   },
   "pattern": [

@@ -12,13 +12,13 @@
       "item": "minecraft:experience_bottle"
     },
     "E": {
-      "item": "minecraft:ender_eye"
+      "item": "gtceu:ender_eye_plate"
     },
     "P": {
       "item": "sophisticatedbackpacks:advanced_pump_upgrade"
     },
     "R": {
-      "tag": "c:dusts/redstone"
+      "item": "gtceu:red_alloy_plate"
     }
   },
   "pattern": [

@@ -9,10 +9,10 @@
   "category": "misc",
   "key": {
     "D": {
-      "tag": "c:gems/diamond"
+      "item": "gtceu:diamond_plate"
     },
     "G": {
-      "tag": "c:ingots/gold"
+      "item": "gtceu:gold_plate"
     },
     "I": {
       "item": "minecraft:dispenser"
@@ -21,7 +21,7 @@
       "item": "sophisticatedbackpacks:pump_upgrade"
     },
     "R": {
-      "tag": "c:dusts/redstone"
+      "item": "gtceu:red_alloy_plate"
     }
   },
   "pattern": [

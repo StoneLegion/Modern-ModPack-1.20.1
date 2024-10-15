@@ -12,7 +12,7 @@
       "item": "sophisticatedbackpacks:backpack"
     },
     "C": {
-      "tag": "c:ingots/copper"
+      "item": "gtceu:copper_plate"
     }
   },
   "pattern": [

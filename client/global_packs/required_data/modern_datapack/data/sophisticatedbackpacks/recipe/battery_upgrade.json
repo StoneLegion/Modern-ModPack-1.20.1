@@ -12,10 +12,10 @@
       "item": "sophisticatedbackpacks:upgrade_base"
     },
     "G": {
-      "tag": "c:ingots/gold"
+      "item": "gtceu:gold_plate"
     },
     "R": {
-      "tag": "c:storage_blocks/redstone"
+      "item": "gtceu:red_alloy_plate"
     }
   },
   "pattern": [
