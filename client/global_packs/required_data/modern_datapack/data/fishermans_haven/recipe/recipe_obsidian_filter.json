@@ -8,10 +8,10 @@
   ],
   "key": {
     "a": {
-      "item": "minecraft:obsidian"
+      "item": "gtceu:obsidian_plate"
     },
     "b": {
-      "item": "minecraft:diamond"
+      "item": "gtceu:diamond_plate"
     }
   },
   "result": {

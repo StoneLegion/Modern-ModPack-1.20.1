@@ -8,10 +8,10 @@
   ],
   "key": {
     "a": {
-      "item": "minecraft:iron_nugget"
+      "item": "gtceu:iron_plate"
     },
     "b": {
-      "item": "minecraft:iron_ingot"
+      "item": "gtceu:iron_plate"
     },
     "c": {
       "item": "minecraft:stick"

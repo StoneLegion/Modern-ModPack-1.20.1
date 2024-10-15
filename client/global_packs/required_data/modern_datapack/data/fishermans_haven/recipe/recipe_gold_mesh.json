@@ -8,10 +8,10 @@
   ],
   "key": {
     "a": {
-      "item": "minecraft:gold_nugget"
+      "item": "gtceu:gold_ring"
     },
     "b": {
-      "item": "minecraft:gold_ingot"
+      "item": "gtceu:gold_plate"
     }
   },
   "result": {

@@ -8,10 +8,10 @@
   ],
   "key": {
     "a": {
-      "item": "minecraft:gold_ingot"
+      "item": "gtceu:gold_plate"
     },
     "b": {
-      "item": "minecraft:obsidian"
+      "item": "gtceu:obsidian_plate"
     },
     "c": {
       "item": "fishermans_haven:gold_mesh"
