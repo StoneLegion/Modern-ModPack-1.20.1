@@ -1,7 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "redstone",
-  "key": {"#": {"item": "minecraft:stone"}, "R": {"tag": "c:dusts/redstone"}},
+  "key": {"#": {"item": "gtceu:rubber_plate"}, "R": {"item": "gtceu:red_alloy_plate"}},
   "pattern": [" # ", "#R#", " # "],
-  "result": {"count": 6, "id": "computercraft:cable"}
+  "result": {"count": 4, "id": "computercraft:cable"}
 }

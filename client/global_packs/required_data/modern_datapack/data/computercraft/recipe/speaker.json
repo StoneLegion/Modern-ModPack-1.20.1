@@ -2,9 +2,9 @@
   "type": "minecraft:crafting_shaped",
   "category": "redstone",
   "key": {
-    "#": {"item": "minecraft:stone"},
+    "#": {"item": "gtceu:steel_plate"},
     "N": {"item": "minecraft:note_block"},
-    "R": {"tag": "c:dusts/redstone"}
+    "R": {"item": "gtceu:red_alloy_plate"}
   },
   "pattern": ["###", "#N#", "#R#"],
   "result": {"count": 1, "id": "computercraft:speaker"}

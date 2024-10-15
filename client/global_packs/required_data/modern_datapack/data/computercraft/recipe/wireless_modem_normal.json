@@ -1,7 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "redstone",
-  "key": {"#": {"item": "minecraft:stone"}, "E": {"tag": "c:ender_pearls"}},
+  "key": {"#": {"item": "gtceu:steel_plate"}, "E": {"item": "gtceu:ender_pearl_plate"}},
   "pattern": ["###", "#E#", "###"],
   "result": {"count": 1, "id": "computercraft:wireless_modem_normal"}
 }

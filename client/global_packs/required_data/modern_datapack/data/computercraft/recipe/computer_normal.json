@@ -1,7 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "redstone",
-  "key": {"#": {"item": "minecraft:stone"}, "G": {"tag": "c:glass_panes"}, "R": {"tag": "c:dusts/redstone"}},
+  "key": {"#": {"item": "gtceu:steel_plate"}, "G": {"tag": "gtceu:circuits/lv"}, "R": {"item": "gtceu:red_alloy_plate"}},
   "pattern": ["###", "#R#", "#G#"],
   "result": {"count": 1, "id": "computercraft:computer_normal"}
 }

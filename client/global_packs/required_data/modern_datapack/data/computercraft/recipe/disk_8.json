@@ -3,7 +3,7 @@
   "category": "redstone",
   "group": "computercraft:disk",
   "ingredients": [
-    {"tag": "c:dusts/redstone"},
+    {"item": "gtceu:red_alloy_plate"},
     {"item": "minecraft:paper"},
     {"item": "minecraft:light_gray_dye"}
   ],
