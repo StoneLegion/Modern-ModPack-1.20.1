@@ -12,7 +12,7 @@
       "type": "sophisticatedstorage:base_tier_wooden_storage"
     },
     "G": {
-      "tag": "c:ingots/gold"
+      "item": "gtceu:gold_plate"
     },
     "P": {
       "tag": "minecraft:planks"

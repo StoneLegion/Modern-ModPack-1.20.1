@@ -12,10 +12,10 @@
       "item": "sophisticatedstorage:upgrade_base"
     },
     "I": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:iron_plate"
     },
     "R": {
-      "tag": "c:dusts/redstone"
+      "item": "gtceu:red_alloy_plate"
     },
     "S": {
       "item": "minecraft:stonecutter"

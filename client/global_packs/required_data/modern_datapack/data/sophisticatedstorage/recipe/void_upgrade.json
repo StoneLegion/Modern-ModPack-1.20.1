@@ -12,13 +12,13 @@
       "item": "sophisticatedstorage:upgrade_base"
     },
     "E": {
-      "tag": "c:ender_pearls"
+      "item": "gtceu:ender_pearl_plate"
     },
     "O": {
-      "tag": "c:obsidians"
+      "item": "gtceu:obsidian_plate"
     },
     "R": {
-      "tag": "c:dusts/redstone"
+      "item": "gtceu:red_alloy_plate"
     }
   },
   "pattern": [

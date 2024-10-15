@@ -9,7 +9,7 @@
   "category": "misc",
   "key": {
     "G": {
-      "tag": "c:ingots/gold"
+      "item": "gtceu:gold_plate"
     },
     "S": {
       "item": "sophisticatedstorage:limited_iron_barrel_2"

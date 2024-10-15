@@ -9,10 +9,10 @@
   "category": "misc",
   "key": {
     "E": {
-      "tag": "c:ender_pearls"
+      "item": "gtceu:ender_pearl_plate"
     },
     "I": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:iron_plate"
     },
     "R": {
       "item": "minecraft:redstone_torch"

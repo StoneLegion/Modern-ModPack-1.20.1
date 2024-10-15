@@ -12,7 +12,7 @@
       "tag": "c:storage_blocks/gold"
     },
     "G": {
-      "tag": "c:ingots/gold"
+      "item": "gtceu:gold_plate"
     },
     "S": {
       "item": "sophisticatedstorage:stack_upgrade_tier_2"

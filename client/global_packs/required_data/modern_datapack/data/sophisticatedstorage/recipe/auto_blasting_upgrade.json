@@ -9,16 +9,16 @@
   "category": "misc",
   "key": {
     "D": {
-      "tag": "c:gems/diamond"
+      "item": "gtceu:diamond_plate"
     },
     "G": {
-      "tag": "c:ingots/gold"
+      "item": "gtceu:gold_plate"
     },
     "H": {
       "item": "minecraft:hopper"
     },
     "R": {
-      "tag": "c:dusts/redstone"
+      "item": "gtceu:red_alloy_plate"
     },
     "S": {
       "item": "sophisticatedstorage:blasting_upgrade"

@@ -15,7 +15,7 @@
       "tag": "c:chests"
     },
     "I": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:iron_plate"
     },
     "T": {
       "item": "minecraft:crafting_table"

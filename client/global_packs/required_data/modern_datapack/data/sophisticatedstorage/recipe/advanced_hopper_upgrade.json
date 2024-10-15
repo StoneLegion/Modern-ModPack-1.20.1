@@ -9,10 +9,10 @@
   "category": "misc",
   "key": {
     "D": {
-      "tag": "c:gems/diamond"
+      "item": "gtceu:diamond_plate"
     },
     "G": {
-      "tag": "c:ingots/gold"
+      "item": "gtceu:gold_plate"
     },
     "H": {
       "item": "sophisticatedstorage:hopper_upgrade"
@@ -21,7 +21,7 @@
       "item": "minecraft:dropper"
     },
     "R": {
-      "tag": "c:dusts/redstone"
+      "item": "gtceu:red_alloy_plate"
     }
   },
   "pattern": [

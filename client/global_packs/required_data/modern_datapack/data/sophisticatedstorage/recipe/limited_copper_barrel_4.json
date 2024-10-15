@@ -9,7 +9,7 @@
   "category": "misc",
   "key": {
     "C": {
-      "tag": "c:ingots/copper"
+      "item": "gtceu:copper_plate"
     },
     "S": {
       "item": "sophisticatedstorage:limited_barrel_4"

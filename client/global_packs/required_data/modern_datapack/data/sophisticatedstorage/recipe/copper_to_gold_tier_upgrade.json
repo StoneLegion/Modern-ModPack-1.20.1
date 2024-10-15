@@ -9,7 +9,7 @@
   "category": "misc",
   "key": {
     "G": {
-      "tag": "c:ingots/gold"
+      "item": "gtceu:gold_plate"
     },
     "T": {
       "item": "sophisticatedstorage:copper_to_iron_tier_upgrade"
