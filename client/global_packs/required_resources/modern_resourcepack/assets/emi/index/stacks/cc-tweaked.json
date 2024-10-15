@@ -1,0 +1,14 @@
+{
+  "filters": [
+    "/computercraft:turtle_normal/",
+    "/computercraft:turtle_advanced/"
+	],
+	"removed": [
+		"item:computercraft:pocket_computer_normal{\"computercraft:pocket_upgrade\":{id:\"computercraft:speaker\"}}",
+		"item:computercraft:pocket_computer_normal{\"computercraft:pocket_upgrade\":{id:\"computercraft:wireless_modem_advanced\"}}",
+		"item:computercraft:pocket_computer_normal{\"computercraft:pocket_upgrade\":{id:\"computercraft:wireless_modem_normal\"}}",
+		"item:computercraft:pocket_computer_advanced{\"computercraft:pocket_upgrade\":{id:\"computercraft:speaker\"}}",
+		"item:computercraft:pocket_computer_advanced{\"computercraft:pocket_upgrade\":{id:\"computercraft:wireless_modem_advanced\"}}",
+		"item:computercraft:pocket_computer_advanced{\"computercraft:pocket_upgrade\":{id:\"computercraft:wireless_modem_normal\"}}"
+	]
+}
