@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "cookingforblockheads:recipe_book"
+    },
+    "C": {
+      "item": "minecraft:crafting_table"
+    },
+    "D": {
+      "tag": "c:gems/diamond"
+    }
+  },
+  "pattern": [
+    " D ",
+    "CBC",
+    " D "
+  ],
+  "result": {
+    "count": 1,
+    "id": "cookingforblockheads:crafting_book"
+  }
+}
