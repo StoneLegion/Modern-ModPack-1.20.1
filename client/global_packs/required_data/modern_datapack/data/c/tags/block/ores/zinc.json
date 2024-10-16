@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [],
+  "remove": [
+    "railcraft:zinc_ore",
+    "railcraft:deepslate_zinc_ore"
+  ]
+}

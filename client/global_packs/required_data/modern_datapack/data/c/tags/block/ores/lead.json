@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [],
+  "remove": [
+    "railcraft:lead_ore",
+    "railcraft:deepslate_lead_ore"
+  ]
+}

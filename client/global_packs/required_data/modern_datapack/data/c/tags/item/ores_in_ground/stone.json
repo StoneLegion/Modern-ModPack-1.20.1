@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [],
+  "remove": [
+    "railcraft:lead_ore",
+    "railcraft:nickel_ore",
+    "railcraft:silver_ore",
+    "railcraft:tin_ore",
+    "railcraft:zinc_ore",
+    "railcraft:sulfur_ore",
+    "railcraft:saltpeter_ore"
+  ]
+}

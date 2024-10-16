@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [],
+  "remove": [
+    "railcraft:steel_plate"
+  ]
+}

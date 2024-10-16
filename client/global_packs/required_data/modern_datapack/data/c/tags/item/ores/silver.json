@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [],
+  "remove": [
+    "railcraft:silver_ore",
+    "railcraft:deepslate_silver_ore"
+  ]
+}

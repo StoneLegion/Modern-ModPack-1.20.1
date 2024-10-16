@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [],
+  "remove": [
+    "railcraft:deepslate_lead_ore",
+    "railcraft:deepslate_nickel_ore",
+    "railcraft:deepslate_silver_ore",
+    "railcraft:deepslate_tin_ore",
+    "railcraft:deepslate_zinc_ore"
+  ]
+}
