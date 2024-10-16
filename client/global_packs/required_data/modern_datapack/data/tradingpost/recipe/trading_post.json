@@ -3,13 +3,13 @@
   "category": "misc",
   "key": {
     "#": {
-      "tag": "minecraft:planks"
+      "item": "gtceu:treated_wood_plate"
     },
     "S": {
-      "item": "minecraft:stick"
+      "item": "gtceu:treated_wood_rod"
     },
     "X": {
-      "item": "minecraft:emerald"
+      "item": "gtceu:emerald_plate"
     }
   },
   "pattern": [
