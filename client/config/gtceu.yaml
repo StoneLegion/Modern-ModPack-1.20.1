@@ -10,20 +10,20 @@ recipes:
 
   # Change the recipe of Rods in the Lathe to 1 Rod and 2 Small Piles of Dust, instead of 2 Rods.
   # Default: false
-  harderRods: false
+  harderRods: true
 
   # Whether to make crafting recipes for Bricks, Firebricks, Nether Bricks, and Coke Bricks harder.
   # Default: false
-  harderBrickRecipes: false
+  harderBrickRecipes: true
 
   # Whether to nerf Wood crafting to 2 Planks from 1 Log, and 2 Sticks from 2 Planks.
   # Default: false
-  nerfWoodCrafting: false
+  nerfWoodCrafting: true
 
   # Whether to make Wood related recipes harder.
   # Excludes sticks and planks.
   # Default: false
-  hardWoodRecipes: false
+  hardWoodRecipes: true
 
   # Recipes for Buckets, Cauldrons, Hoppers, and Iron Bars require Iron Plates, Rods, and more.
   # Default: true
@@ -31,16 +31,16 @@ recipes:
 
   # Whether to make Redstone related recipes harder.
   # Default: false
-  hardRedstoneRecipes: false
+  hardRedstoneRecipes: true
 
   # Whether to make Vanilla Tools and Armor recipes harder.
   # Excludes Flint and Steel, and Buckets.
   # Default: false
-  hardToolArmorRecipes: false
+  hardToolArmorRecipes: true
 
   # Whether to make miscellaneous recipes harder.
   # Default: false
-  hardMiscRecipes: false
+  hardMiscRecipes: true
 
   # Whether to make Glass related recipes harder. Default: true
   hardGlassRecipes: true
@@ -51,11 +51,11 @@ recipes:
 
   # Recipes for items like Iron Doors, Trapdoors, Anvil require Iron Plates, Rods, and more.
   # Default: false
-  hardAdvancedIronRecipes: false
+  hardAdvancedIronRecipes: true
 
   # Whether to make coloring blocks like Concrete or Glass harder.
   # Default: false
-  hardDyeRecipes: false
+  hardDyeRecipes: true
 
   # Whether to remove charcoal smelting recipes from the vanilla furnace.
   # Default: true
@@ -79,11 +79,11 @@ recipes:
 
   # Whether to nerf the output amounts of the first circuit in a set to 1 (from 2) and SoC to 2 (from 4).
   # Default: false
-  harderCircuitRecipes: false
+  harderCircuitRecipes: true
 
   # Whether to nerf machine controller recipes.
   # Default: false
-  hardMultiRecipes: false
+  hardMultiRecipes: true
 
   # Whether tools should have enchants or not. Like the flint sword getting fire aspect.
   # Default: true
@@ -106,11 +106,11 @@ worldgen:
   # Whether to increase number of rolls for dungeon chests. Increases dungeon loot drastically.
   # Default: true
   # WARNING: Currently unimplemented.
-  increaseDungeonLoot: true
+  increaseDungeonLoot: false
 
   # Allow GregTech to add additional GregTech Items as loot in various structures.
   # Default: true
-  addLoot: true
+  addLoot: false
 
   oreVeins:
     # The grid size (in chunks) for ore vein generation
@@ -153,15 +153,15 @@ machines:
   # If true, progress will reset.
   # If false, progress will decrease to zero with 2x speed
   # Default: false
-  recipeProgressLowEnergy: false
+  recipeProgressLowEnergy: true
 
   # Whether to require a Wrench, Wirecutter, or other GregTech tools to break machines, casings, wires, and more.
   # Default: false
-  requireGTToolsForBlocks: false
+  requireGTToolsForBlocks: true
 
   # Whether machines explode in rainy weather or when placed next to certain terrain, such as fire or lava
   # Default: false
-  doTerrainExplosion: false
+  doTerrainExplosion: true
 
   # Energy use multiplier for electric items.
   # Default: 100
@@ -256,7 +256,7 @@ machines:
 
   # Whether non owners can break a machine
   # Default: false
-  machineOwnerBreak: true
+  machineOwnerBreak: false
 
   # If High Tier (>UV-tier) GT content should be registered.
   # Items and Machines enabled with this config will have missing recipes by default.
@@ -272,7 +272,7 @@ machines:
   # Whether the Assembly Line should require the fluid inputs to be in order.
   # (Requires Ordered Assembly Line Item Inputs to be enabled.)
   # Default: false
-  orderedAssemblyLineFluids: false
+  orderedAssemblyLineFluids: true
 
   # Let Dual Hatch has more ability. (DEPRECATED: does nothing now)
   # When enabled it, Dual Hatch will can used to assemble line and so on.
@@ -377,7 +377,7 @@ client:
 
   # Duration of the multiblock in-world preview (s)
   # Default: 10
-  inWorldPreviewDuration: 10
+  inWorldPreviewDuration: 30
 
   # Duration of UI animations in ms
   # Default: 300
