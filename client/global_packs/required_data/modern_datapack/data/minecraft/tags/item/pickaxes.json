@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [],
+  "remove": [
+    "ae2:certus_quartz_pickaxe",
+    "ae2:nether_quartz_pickaxe",
+    "ae2:fluix_pickaxe"
+  ]
+}
