@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "S": {
-      "tag": "minecraft:wooden_slabs"
+      "item": "gtceu:treated_wood_slab"
     }
   },
   "pattern": [

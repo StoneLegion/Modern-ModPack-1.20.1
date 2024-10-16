@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "P": {
-      "tag": "minecraft:wooden_pressure_plates"
+      "item": "gtceu:treated_wood_pressure_plate"
     },
     "S": {
-      "tag": "minecraft:wooden_slabs"
+      "item": "gtceu:treated_wood_slab"
     }
   },
   "pattern": [

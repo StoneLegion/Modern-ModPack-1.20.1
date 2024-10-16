@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "I": {
-      "tag": "c:nuggets/iron"
+      "item": "gtceu:iron_screw"
     },
     "S": {
-      "tag": "minecraft:wooden_slabs"
+      "item": "gtceu:treated_wood_slab"
     }
   },
   "pattern": [

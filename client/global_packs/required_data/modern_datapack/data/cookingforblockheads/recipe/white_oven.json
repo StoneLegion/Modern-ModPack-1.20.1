@@ -3,13 +3,13 @@
   "category": "misc",
   "key": {
     "F": {
-      "item": "minecraft:furnace"
+      "item": "minecraft:blast_furnace"
     },
     "G": {
       "item": "minecraft:black_stained_glass"
     },
     "I": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:iron_plate"
     }
   },
   "pattern": [

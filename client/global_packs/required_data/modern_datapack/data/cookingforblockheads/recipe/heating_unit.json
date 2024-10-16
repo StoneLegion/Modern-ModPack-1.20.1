@@ -6,10 +6,10 @@
       "item": "minecraft:comparator"
     },
     "I": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:iron_plate"
     },
     "N": {
-      "tag": "c:nuggets/iron"
+      "item": "gtceu:iron_screw"
     }
   },
   "pattern": [

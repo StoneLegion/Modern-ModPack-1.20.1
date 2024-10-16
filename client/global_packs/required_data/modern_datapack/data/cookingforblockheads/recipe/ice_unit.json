@@ -6,7 +6,7 @@
       "item": "minecraft:comparator"
     },
     "I": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:iron_plate"
     },
     "S": {
       "item": "minecraft:snowball"
