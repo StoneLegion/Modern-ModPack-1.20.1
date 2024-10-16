@@ -6,10 +6,10 @@
       "tag": "simplylight:any_lamp_on"
     },
     "S": {
-      "tag": "c:stones"
+      "item": "gtceu:iron_plate"
     },
     "W": {
-      "tag": "minecraft:walls"
+      "item": "gtceu:iron_rod"
     }
   },
   "pattern": [
