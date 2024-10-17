@@ -7,10 +7,10 @@
     ],
     "key": {
         "i": {
-            "item": "minecraft:iron_ingot"
+            "item": "gtceu:iron_plate"
         },
         "G": {
-            "item": "minecraft:glowstone"
+            "item": "gtceu:glowstone_plate"
         },
         "T": {
             "item": "minecraft:tinted_glass"

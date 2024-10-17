@@ -7,13 +7,13 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:iron_block"
+      "item": "gtceu:steel_plate"
     },
     "A": {
-      "item": "minecraft:amethyst_shard"
+      "item": "gtceu:amethyst_lens"
     },
     "G": {
-      "item": "minecraft:glowstone"
+      "item": "gtceu:glowstone_plate"
     },
     "R": {
       "item": "waterframes:remote"
