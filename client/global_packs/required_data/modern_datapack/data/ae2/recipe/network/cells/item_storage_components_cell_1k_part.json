@@ -3,17 +3,20 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "c:dusts/redstone"
+      "item": "gtceu:redstone_plate"
     },
     "b": {
-      "tag": "ae2:all_certus_quartz"
+      "item": "gtceu:certus_quartz_plate"
     },
     "c": {
       "item": "ae2:logic_processor"
+    },
+    "d": {
+      "tag": "gtceu:circuits/mv"
     }
   },
   "pattern": [
-    "aba",
+    "ada",
     "bcb",
     "aba"
   ],

@@ -3,18 +3,21 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:aluminium_plate"
     },
     "b": {
       "item": "minecraft:piston"
     },
     "c": {
-      "tag": "c:ingots/copper"
+      "item": "gtceu:annealed_copper_plate"
+    },
+	    "d": {
+      "tag": "gtceu:circuits/mv"
     }
   },
   "pattern": [
     "aba",
-    "c a",
+    "cda",
     "aba"
   ],
   "result": {

@@ -3,13 +3,13 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:aluminium_plate"
     },
     "b": {
       "item": "ae2:quartz_glass"
     },
     "c": {
-      "tag": "c:ingots/copper"
+      "item": "gtceu:annealed_copper_plate"
     }
   },
   "pattern": [

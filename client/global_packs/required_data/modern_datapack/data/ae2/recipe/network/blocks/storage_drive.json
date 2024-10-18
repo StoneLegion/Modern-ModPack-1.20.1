@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:aluminium_plate"
     },
     "b": {
-      "item": "ae2:engineering_processor"
+      "item": "ae2:logic_processor"
     },
     "c": {
       "item": "ae2:fluix_glass_cable"

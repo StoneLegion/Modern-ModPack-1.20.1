@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:stainless_steel_plate"
     },
     "b": {
       "item": "ae2:engineering_processor"

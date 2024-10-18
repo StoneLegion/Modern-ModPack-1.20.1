@@ -3,16 +3,16 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "c:dusts/glowstone"
+      "item": "gtceu:glowstone_plate"
     },
     "b": {
       "item": "ae2:quartz_glass"
     },
     "c": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:aluminium_plate"
     },
     "d": {
-      "tag": "c:dusts/redstone"
+      "tag": "gtceu:circuits/mv"
     }
   },
   "pattern": [
@@ -21,7 +21,7 @@
     " ab"
   ],
   "result": {
-    "count": 3,
+    "count": 1,
     "id": "ae2:semi_dark_monitor"
   }
 }

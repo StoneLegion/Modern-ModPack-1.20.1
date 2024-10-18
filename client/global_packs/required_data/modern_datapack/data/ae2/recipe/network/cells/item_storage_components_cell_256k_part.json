@@ -3,16 +3,16 @@
   "category": "misc",
   "key": {
     "a": {
-      "item": "ae2:sky_dust"
+      "item": "gtceu:tantalum_carbide_plate"
     },
     "b": {
-      "item": "ae2:calculation_processor"
+      "tag": "gtceu:circuits/luv"
     },
     "c": {
       "item": "ae2:cell_component_64k"
     },
     "d": {
-      "item": "ae2:quartz_glass"
+      "item": "ae2:calculation_processor"
     }
   },
   "pattern": [

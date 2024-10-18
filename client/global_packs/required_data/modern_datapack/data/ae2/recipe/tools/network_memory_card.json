@@ -6,13 +6,13 @@
       "item": "ae2:calculation_processor"
     },
     "b": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:aluminium_plate"
     },
     "c": {
-      "tag": "c:ingots/gold"
+      "item": "gtceu:rose_gold_plate"
     },
     "d": {
-      "tag": "c:dusts/redstone"
+      "item": "gtceu:redstone_plate"
     }
   },
   "pattern": [

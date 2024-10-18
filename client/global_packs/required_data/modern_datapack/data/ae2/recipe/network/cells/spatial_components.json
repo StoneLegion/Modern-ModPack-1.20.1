@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "c:dusts/glowstone"
+      "item": "gtceu:glowstone_plate"
     },
     "b": {
       "item": "ae2:fluix_pearl"

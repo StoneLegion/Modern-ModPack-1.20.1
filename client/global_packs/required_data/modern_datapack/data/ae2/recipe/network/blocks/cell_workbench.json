@@ -3,16 +3,16 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "minecraft:wool"
+      "item": "gtceu:aluminium_plate"
     },
     "b": {
       "item": "ae2:calculation_processor"
     },
     "c": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:stainless_steel_plate"
     },
     "d": {
-      "tag": "c:chests/wooden"
+      "tag": "gtceu:circuits/hv"
     }
   },
   "pattern": [

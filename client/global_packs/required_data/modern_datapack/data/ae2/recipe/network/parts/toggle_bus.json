@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "c:dusts/redstone"
+      "item": "gtceu:redstone_plate"
     },
     "b": {
       "item": "ae2:fluix_glass_cable"

@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "c:glass_blocks"
+      "item": "ae2:quartz_glass"
     },
     "b": {
       "item": "ae2:drive"
@@ -12,7 +12,7 @@
       "item": "ae2:fluix_glass_cable"
     },
     "d": {
-      "tag": "c:ingots/iron"
+     "item": "gtceu:aluminium_plate"
     },
     "e": {
       "item": "ae2:logic_processor"

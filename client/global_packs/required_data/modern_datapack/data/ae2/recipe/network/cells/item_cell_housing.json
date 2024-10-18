@@ -6,13 +6,13 @@
       "item": "ae2:quartz_glass"
     },
     "b": {
-      "tag": "c:dusts/redstone"
+      "item": "gtceu:redstone_plate"
     },
     "c": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:aluminium_plate"
     },
     "d": {
-      "tag": "c:ingots/copper"
+      "item": "gtceu:annealed_copper_plate"
     }
   },
   "pattern": [

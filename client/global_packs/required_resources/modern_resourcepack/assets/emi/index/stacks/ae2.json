@@ -52,6 +52,11 @@
     "item:ae2:brown_lumen_paint_ball",
     "item:ae2:green_lumen_paint_ball",
     "item:ae2:red_lumen_paint_ball",
-    "item:ae2:black_lumen_paint_ball"
+    "item:ae2:black_lumen_paint_ball",
+	"item:ae2:vibration_chamber",
+	"item:ae2:crystal_resonance_generator",
+	"item:ae2:silicon",
+	"item:ae2:tiny_tnt",
+	"item:ae2:sky_stone_tank"
 	]
 }

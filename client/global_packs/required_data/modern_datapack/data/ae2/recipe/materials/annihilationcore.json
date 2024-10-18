@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "ae2:all_nether_quartz"
+      "item": "gtceu:nether_quartz_plate"
     },
     "b": {
       "tag": "c:dusts/fluix"

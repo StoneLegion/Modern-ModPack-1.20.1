@@ -10,12 +10,15 @@
     },
     "c": {
       "item": "ae2:fluix_glass_cable"
+    },
+    "d": {
+      "item": "gtceu:luv_sensor"
     }
   },
   "pattern": [
-    "a",
-    "b",
-    "c"
+    " a ",
+    " b ",
+    "dcd"
   ],
   "result": {
     "count": 1,

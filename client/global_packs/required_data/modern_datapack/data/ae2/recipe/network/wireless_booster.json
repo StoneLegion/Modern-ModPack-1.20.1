@@ -3,16 +3,16 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "c:dusts/fluix"
+      "item": "gtceu:ender_eye_plate"
     },
     "b": {
-      "tag": "ae2:all_certus_quartz"
+      "item": "gtceu:luv_sensor"
     },
     "c": {
-      "tag": "c:dusts/ender_pearl"
+      "item": "gtceu:ender_pearl_plate"
     },
     "d": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:stainless_steel_plate"
     }
   },
   "pattern": [

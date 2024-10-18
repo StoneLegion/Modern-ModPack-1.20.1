@@ -6,10 +6,10 @@
       "tag": "c:rods/wooden"
     },
     "b": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:aluminium_plate"
     },
     "c": {
-      "tag": "c:gems/quartz"
+      "item": "gtceu:nether_quartz_plate"
     }
   },
   "pattern": [

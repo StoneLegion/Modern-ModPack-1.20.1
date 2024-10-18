@@ -3,13 +3,13 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "c:ingots/gold"
+      "item": "gtceu:rose_gold_plate"
     },
     "b": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:stainless_steel_plate"
     },
     "c": {
-      "tag": "c:dusts/redstone"
+      "tag": "gtceu:circuits/hv"
     },
     "d": {
       "item": "ae2:calculation_processor"

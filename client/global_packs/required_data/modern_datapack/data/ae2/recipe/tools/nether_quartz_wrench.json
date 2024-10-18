@@ -3,13 +3,16 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "c:gems/quartz"
+      "item": "gtceu:nether_quartz_plate"
+    },
+    "b": {
+      "item": "gtceu:aluminium_plate"
     }
   },
   "pattern": [
     "a a",
-    " a ",
-    "a a"
+    " b ",
+    "b b"
   ],
   "result": {
     "count": 1,

@@ -3,16 +3,16 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "c:dusts/glowstone"
+      "item": "gtceu:electrum_plate"
     },
     "b": {
-      "item": "ae2:calculation_processor"
+      "tag": "gtceu:circuits/iv"
     },
     "c": {
       "item": "ae2:cell_component_16k"
     },
     "d": {
-      "item": "ae2:quartz_glass"
+      "item": "ae2:calculation_processor"
     }
   },
   "pattern": [

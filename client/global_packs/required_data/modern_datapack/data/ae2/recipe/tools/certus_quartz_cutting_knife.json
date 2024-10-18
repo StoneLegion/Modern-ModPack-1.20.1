@@ -6,10 +6,10 @@
       "tag": "c:rods/wooden"
     },
     "b": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:aluminium_plate"
     },
     "c": {
-      "tag": "c:gems/certus_quartz"
+      "item": "gtceu:certus_quartz_plate"
     }
   },
   "pattern": [

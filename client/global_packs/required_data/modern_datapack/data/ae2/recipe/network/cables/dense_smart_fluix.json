@@ -6,10 +6,10 @@
       "item": "ae2:fluix_covered_dense_cable"
     },
     {
-      "tag": "c:dusts/redstone"
+      "item": "gtceu:redstone_plate"
     },
     {
-      "tag": "c:dusts/glowstone"
+      "item": "gtceu:glowstone_plate"
     }
   ],
   "result": {

@@ -5,7 +5,7 @@
       "item": "ae2:printed_silicon"
     },
     "middle": {
-      "item": "minecraft:redstone"
+      "tag": "gtceu:circuits/hv"
     },
     "top": {
       "item": "ae2:printed_calculation_processor"

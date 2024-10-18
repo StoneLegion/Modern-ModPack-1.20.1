@@ -3,16 +3,16 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "c:dusts/redstone"
+      "item": "gtceu:redstone_plate"
     },
     "b": {
-      "item": "ae2:calculation_processor"
+      "tag": "gtceu:circuits/hv"
     },
     "c": {
       "item": "ae2:cell_component_1k"
     },
     "d": {
-      "item": "ae2:quartz_glass"
+      "item": "ae2:calculation_processor"
     }
   },
   "pattern": [

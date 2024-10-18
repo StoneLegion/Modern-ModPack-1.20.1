@@ -3,13 +3,13 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "ae2:all_certus_quartz"
+      "item": "gtceu:certus_quartz_plate"
     },
     "b": {
       "tag": "c:dusts/fluix"
     },
     "c": {
-      "item": "ae2:quartz_glass"
+      "item": "gtceu:energy_crystal"
     }
   },
   "pattern": [
