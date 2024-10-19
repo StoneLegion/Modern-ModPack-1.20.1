@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "ADA"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:ingots/iron"
+    },
+    "B": {
+      "tag": "c:dusts/redstone"
+    },
+    "C": {
+      "item": "minecraft:observer"
+    },
+    "D": {
+      "item": "minecraft:piston"
+    }
+  },
+  "result": {
+    "id": "movingelevators:elevator_block"
+  }
+}
