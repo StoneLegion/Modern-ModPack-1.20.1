@@ -10,13 +10,13 @@
       "item": "minecraft:glass_pane"
     },
     "b": {
-      "item": "minecraft:redstone"
+      "item": "gtceu:red_alloy_plate"
     },
     "c": {
-      "item": "minecraft:copper_ingot"
+      "item": "gtceu:bronze_plate"
     },
     "d": {
-      "item": "minecraft:glowstone_dust"
+      "item": "gtceu:glowstone_plate"
     }
   },
   "result": {
