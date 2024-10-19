@@ -8,7 +8,7 @@
   ],
   "key": {
     "#": {
-      "tag": "c:ingots/gold"
+      "item": "gtceu:gold_plate"
     },
     "B": {
       "item": "ironbookshelves:iron_bookshelf"

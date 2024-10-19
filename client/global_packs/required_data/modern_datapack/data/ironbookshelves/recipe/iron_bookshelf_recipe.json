@@ -8,7 +8,7 @@
   ],
   "key": {
     "#": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:iron_plate"
     },
     "B": {
       "tag": "c:bookshelves"
