@@ -7,7 +7,7 @@
   ],
   "key": {
     "S": {
-      "tag": "c:rods/wooden"
+      "item": "gtceu:treated_wood_rod"
     },
     "F": {
       "tag": "c:strings"

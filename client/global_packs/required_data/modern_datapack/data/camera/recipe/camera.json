@@ -7,10 +7,10 @@
   ],
   "key": {
     "I": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:iron_plate"
     },
     "R": {
-      "tag": "c:dusts/redstone"
+      "tag": "gtceu:circuits/lv"
     },
     "S": {
       "item": "minecraft:stone_button"
