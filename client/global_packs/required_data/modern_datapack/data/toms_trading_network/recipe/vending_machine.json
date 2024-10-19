@@ -7,13 +7,13 @@
   ],
   "key": {
   	"i": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:iron_plate"
     },
     "e": {
-      "tag": "c:gems/emerald"
+      "item": "gtceu:emerald_plate"
     },
     "c": {
-      "tag": "c:chests"
+      "item": "minecraft:chest"
     },
     "C": {
       "item": "minecraft:comparator"
