@@ -1,16 +1,16 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "AAA",
+    "BAB",
     "BCB",
     "BBB"
   ],
   "key": {
     "A": {
-      "tag": "c:stones"
+      "item": "minecraft:stone_button"
     },
     "B": {
-      "tag": "c:cobblestones"
+      "item": "gtceu:steel_plate"
     },
     "C": {
       "tag": "c:chests/wooden"
