@@ -3,13 +3,13 @@
   "category": "misc",
   "key": {
     "#": {
-      "item": "minecraft:obsidian"
+      "item": "gtceu:dense_obsidian_plate"
     },
     "L": {
-      "item": "minecraft:lapis_lazuli"
+      "item": "gtceu:exquisite_lapis_gem"
     },
     "D": {
-      "item": "minecraft:diamond"
+      "item": "gtceu:exquisite_diamond_gem"
     }
   },
   "pattern": [
