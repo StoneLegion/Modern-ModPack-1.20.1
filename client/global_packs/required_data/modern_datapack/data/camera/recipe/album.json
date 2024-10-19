@@ -1,0 +1,24 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:strings"
+    },
+    {
+      "tag": "c:leathers"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    }
+  ],
+  "result": {
+    "id": "camera:album",
+    "count": 1
+  }
+}

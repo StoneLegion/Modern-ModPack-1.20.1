@@ -1,0 +1,26 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "IRS",
+    "IGI",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "R": {
+      "tag": "c:dusts/redstone"
+    },
+    "S": {
+      "item": "minecraft:stone_button"
+    },
+    "G": {
+      "tag": "c:glass_panes/colorless"
+    }
+  },
+  "result": {
+    "id": "camera:camera",
+    "count": 1
+  }
+}
