@@ -4,6 +4,9 @@
   "ingredients": [
     {
       "item": "framedblocks:framed_cube"
+    },
+    {
+      "tag": "minecraft:wooden_buttons"
     }
   ],
   "result": {

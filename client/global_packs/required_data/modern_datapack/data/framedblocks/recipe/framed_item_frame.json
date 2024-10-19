@@ -1,18 +1,13 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "minecraft:crafting_shapeless",
   "category": "building",
-  "key": {
-    "F": {
-      "item": "framedblocks:framed_cube"
+  "ingredients": [
+    {
+      "item": "minecraft:item_frame"
     },
-    "L": {
-      "tag": "c:leathers"
+    {
+      "item": "framedblocks:framed_cube"
     }
-  },
-  "pattern": [
-    "FFF",
-    "FLF",
-    "FFF"
   ],
   "result": {
     "count": 1,

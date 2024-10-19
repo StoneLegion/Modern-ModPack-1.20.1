@@ -4,15 +4,18 @@
   "key": {
     "F": {
       "item": "framedblocks:framed_cube"
+    },
+    "D": {
+      "tag": "minecraft:wooden_doors"
     }
   },
   "pattern": [
     "FF",
-    "FF",
+    "FD",
     "FF"
   ],
   "result": {
-    "count": 3,
+    "count": 1,
     "id": "framedblocks:framed_door"
   }
 }

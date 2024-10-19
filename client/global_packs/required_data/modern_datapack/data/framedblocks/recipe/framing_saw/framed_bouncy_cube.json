@@ -2,7 +2,7 @@
   "type": "framedblocks:frame",
   "additives": [
     {
-      "count": 4,
+      "count": 8,
       "ingredient": {
         "tag": "c:slime_balls"
       }

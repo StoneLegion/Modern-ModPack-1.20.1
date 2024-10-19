@@ -3,10 +3,10 @@
   "category": "building",
   "key": {
     "F": {
-      "item": "framedblocks:framed_cube"
+      "item": "minecraft:stone_pressure_plate"
     },
     "O": {
-      "tag": "c:obsidians"
+      "item": "gtceu:obsidian_plate"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
     "OO"
   ],
   "result": {
-    "count": 1,
+    "count": 2,
     "id": "framedblocks:framed_obsidian_pressure_plate"
   }
 }

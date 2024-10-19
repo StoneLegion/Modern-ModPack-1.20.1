@@ -3,10 +3,10 @@
   "category": "building",
   "ingredients": [
     {
-      "item": "framedblocks:framed_trapdoor"
+      "item": "framedblocks:framed_slab"
     },
     {
-      "item": "minecraft:iron_ingot"
+      "item": "minecraft:iron_trapdoor"
     }
   ],
   "result": {

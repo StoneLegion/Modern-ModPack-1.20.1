@@ -3,14 +3,18 @@
   "category": "building",
   "key": {
     "F": {
+      "tag": "minecraft:wooden_pressure_plates"
+    },
+    "O": {
       "item": "framedblocks:framed_cube"
     }
   },
   "pattern": [
-    "FF"
+    "FF",
+    "OO"
   ],
   "result": {
-    "count": 1,
+    "count": 2,
     "id": "framedblocks:framed_pressure_plate"
   }
 }

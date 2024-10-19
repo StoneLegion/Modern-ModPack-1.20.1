@@ -3,18 +3,18 @@
   "category": "building",
   "key": {
     "F": {
-      "item": "framedblocks:framed_cube"
+      "item": "minecraft:stone_pressure_plate"
     },
-    "S": {
-      "tag": "c:stones"
+    "O": {
+      "item": "framedblocks:framed_cube"
     }
   },
   "pattern": [
     "FF",
-    "SS"
+    "OO"
   ],
   "result": {
-    "count": 1,
+    "count": 2,
     "id": "framedblocks:framed_stone_pressure_plate"
   }
 }

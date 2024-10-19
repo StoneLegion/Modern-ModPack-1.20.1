@@ -6,7 +6,7 @@
       "item": "framedblocks:framed_cube"
     },
     "S": {
-      "item": "minecraft:stick"
+      "tag": "minecraft:signs"
     }
   },
   "pattern": [
@@ -15,7 +15,7 @@
     " S "
   ],
   "result": {
-    "count": 3,
+    "count": 1,
     "id": "framedblocks:framed_sign"
   }
 }

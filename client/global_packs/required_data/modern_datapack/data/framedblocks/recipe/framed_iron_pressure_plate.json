@@ -3,18 +3,18 @@
   "category": "building",
   "key": {
     "F": {
-      "item": "framedblocks:framed_cube"
+      "item": "minecraft:heavy_weighted_pressure_plate"
     },
-    "I": {
-      "tag": "c:ingots/iron"
+    "O": {
+      "item": "framedblocks:framed_cube"
     }
   },
   "pattern": [
     "FF",
-    "II"
+    "OO"
   ],
   "result": {
-    "count": 1,
+    "count": 2,
     "id": "framedblocks:framed_iron_pressure_plate"
   }
 }

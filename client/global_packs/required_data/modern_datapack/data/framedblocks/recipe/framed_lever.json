@@ -6,7 +6,7 @@
       "item": "framedblocks:framed_cube"
     },
     "S": {
-      "item": "minecraft:stick"
+      "item": "minecraft:lever"
     }
   },
   "pattern": [

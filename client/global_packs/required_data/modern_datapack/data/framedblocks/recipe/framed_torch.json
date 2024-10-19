@@ -2,19 +2,20 @@
   "type": "minecraft:crafting_shaped",
   "category": "building",
   "key": {
-    "C": {
-      "tag": "minecraft:coals"
+    "T": {
+      "item": "minecraft:torch"
     },
     "F": {
       "item": "framedblocks:framed_cube"
     }
   },
   "pattern": [
-    "C",
-    "F"
+    "TTT",
+    "TFT",
+	"TTT"
   ],
   "result": {
-    "count": 4,
+    "count": 8,
     "id": "framedblocks:framed_torch"
   }
 }

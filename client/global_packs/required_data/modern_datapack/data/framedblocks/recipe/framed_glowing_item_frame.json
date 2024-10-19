@@ -3,10 +3,10 @@
   "category": "building",
   "ingredients": [
     {
-      "item": "framedblocks:framed_item_frame"
+      "item": "minecraft:glow_item_frame"
     },
     {
-      "item": "minecraft:glow_ink_sac"
+      "item": "framedblocks:framed_cube"
     }
   ],
   "result": {

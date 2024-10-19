@@ -2,19 +2,20 @@
   "type": "minecraft:crafting_shaped",
   "category": "building",
   "key": {
+    "T": {
+      "item": "minecraft:redstone_torch"
+    },
     "F": {
       "item": "framedblocks:framed_cube"
-    },
-    "R": {
-      "tag": "c:dusts/redstone"
     }
   },
   "pattern": [
-    "R",
-    "F"
+    "TTT",
+    "TFT",
+	"TTT"
   ],
   "result": {
-    "count": 4,
+    "count": 8,
     "id": "framedblocks:framed_redstone_torch"
   }
 }

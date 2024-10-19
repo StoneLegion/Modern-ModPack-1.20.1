@@ -3,14 +3,13 @@
   "category": "building",
   "key": {
     "F": {
-      "item": "framedblocks:framed_cube"
+      "tag": "c:fence_gates/wooden"
     },
     "S": {
-      "item": "minecraft:stick"
+      "item": "framedblocks:framed_cube"
     }
   },
   "pattern": [
-    "SFS",
     "SFS"
   ],
   "result": {

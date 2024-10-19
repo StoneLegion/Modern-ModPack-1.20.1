@@ -6,7 +6,7 @@
       "item": "framedblocks:framed_cube"
     },
     {
-      "tag": "c:stones"
+      "item": "minecraft:stone_button"
     }
   ],
   "result": {

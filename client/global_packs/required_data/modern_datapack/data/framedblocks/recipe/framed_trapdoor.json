@@ -4,11 +4,14 @@
   "key": {
     "F": {
       "item": "framedblocks:framed_slab"
+    },
+    "T": {
+      "tag": "minecraft:wooden_trapdoors"
     }
   },
   "pattern": [
     "FFF",
-    "FFF"
+    "FTF"
   ],
   "result": {
     "count": 1,

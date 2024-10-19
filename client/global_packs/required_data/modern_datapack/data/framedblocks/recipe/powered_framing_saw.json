@@ -6,10 +6,10 @@
       "item": "framedblocks:framed_cube"
     },
     "I": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:steel_plate"
     },
     "R": {
-      "tag": "c:dusts/redstone"
+      "item": "gtceu:red_alloy_plate"
     }
   },
   "pattern": [

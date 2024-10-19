@@ -6,7 +6,7 @@
       "item": "framedblocks:framed_cube"
     },
     "S": {
-      "item": "minecraft:stick"
+      "tag": "minecraft:wooden_fences"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
     "FSF"
   ],
   "result": {
-    "count": 3,
+    "count": 2,
     "id": "framedblocks:framed_fence"
   }
 }

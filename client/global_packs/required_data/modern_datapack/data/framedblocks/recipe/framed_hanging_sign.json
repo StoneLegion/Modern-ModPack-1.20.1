@@ -7,15 +7,18 @@
     },
     "F": {
       "item": "framedblocks:framed_cube"
+    },
+    "S": {
+      "tag": "minecraft:hanging_signs"
     }
   },
   "pattern": [
     "C C",
-    "FFF",
+    "FSF",
     "FFF"
   ],
   "result": {
-    "count": 6,
+    "count": 1,
     "id": "framedblocks:framed_hanging_sign"
   }
 }

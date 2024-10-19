@@ -4,7 +4,7 @@
     {
       "count": 4,
       "ingredient": {
-        "tag": "c:dusts/glowstone"
+        "item": "gtceu:glowstone_plate"
       }
     }
   ],

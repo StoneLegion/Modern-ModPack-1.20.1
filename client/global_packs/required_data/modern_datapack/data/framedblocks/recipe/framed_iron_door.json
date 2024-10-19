@@ -3,10 +3,10 @@
   "category": "building",
   "key": {
     "D": {
-      "item": "framedblocks:framed_door"
+      "item": "minecraft:iron_door"
     },
     "I": {
-      "item": "minecraft:iron_ingot"
+      "item": "framedblocks:framed_cube"
     }
   },
   "pattern": [
