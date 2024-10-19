@@ -4,13 +4,13 @@
   "group": "buildinggadgets2",
   "key": {
     "i": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:steel_plate"
     },
     "l": {
-      "tag": "c:gems/lapis"
+      "item": "gtceu:lapis_plate"
     },
     "r": {
-      "tag": "c:dusts/redstone"
+      "item": "gtceu:redstone_plate"
     },
     "s": {
       "item": "minecraft:shears"

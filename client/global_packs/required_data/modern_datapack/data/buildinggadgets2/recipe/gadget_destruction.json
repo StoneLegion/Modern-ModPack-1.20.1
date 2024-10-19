@@ -4,16 +4,16 @@
   "group": "buildinggadgets2",
   "key": {
     "e": {
-      "tag": "c:ender_pearls"
+      "item": "gtceu:ender_pearl_plate"
     },
     "i": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:steel_plate"
     },
     "l": {
-      "tag": "c:gems/lapis"
+      "item": "gtceu:lapis_plate"
     },
     "r": {
-      "tag": "c:dusts/redstone"
+      "item": "gtceu:redstone_plate"
     }
   },
   "pattern": [
