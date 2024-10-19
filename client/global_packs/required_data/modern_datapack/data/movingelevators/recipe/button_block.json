@@ -7,10 +7,10 @@
   ],
   "key": {
     "A": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:iron_plate"
     },
     "B": {
-      "tag": "c:dusts/redstone"
+      "item": "gtceu:red_alloy_plate"
     },
     "C": {
       "tag": "c:ender_pearls"
