@@ -3,20 +3,20 @@
   "category": "redstone",
   "key": {
     "d": {
-      "tag": "c:gems/lapis"
+      "item": "gtceu:lapis_plate"
     },
     "i": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:steel_plate"
     },
     "l": {
-      "tag": "c:storage_blocks/coal"
+      "item": "gtceu:tin_single_cable"
     },
     "r": {
-      "tag": "c:dusts/redstone"
+      "tag": "gtceu:circuits/lv"
     }
   },
   "pattern": [
-    "iri",
+    "iii",
     "drd",
     "ili"
   ],
