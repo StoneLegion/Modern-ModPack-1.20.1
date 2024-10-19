@@ -6,10 +6,10 @@
         "OBO"
     ],
     "key": {
-        "O": { "item": "minecraft:obsidian" },
+        "O": { "item": "gtceu:obsidian_plate" },
         "P": { "tag": "c:glass_panes" },
-        "G": { "item": "minecraft:glowstone" },
-        "B": { "tag": "c:dyes/black" }
+        "G": { "item": "gtceu:glowstone_plate" },
+        "B": { "item": "gtceu:stainless_steel_plate" }
     },
     "result": {
         "id": "torchmaster:dreadlamp"

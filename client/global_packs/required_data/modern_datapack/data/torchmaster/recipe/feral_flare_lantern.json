@@ -1,14 +1,15 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        " I ",
+        "OIO",
         "GgG",
-        " I "
+        "OIO"
     ],
     "key": {
-        "I": { "tag": "c:ingots/gold" },
-        "g": { "tag": "c:dusts/glowstone" },
-        "G": { "tag": "c:glass_blocks" }
+        "I": { "item": "gtceu:stainless_steel_plate" },
+        "g": { "item": "gtceu:glowstone_plate" },
+        "G": { "tag": "c:glass_blocks" },
+		"O": { "item": "gtceu:obsidian_plate" }
     },
     "result": {
         "id": "torchmaster:feral_flare_lantern"

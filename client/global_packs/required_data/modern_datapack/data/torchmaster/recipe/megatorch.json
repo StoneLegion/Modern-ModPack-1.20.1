@@ -2,14 +2,15 @@
     "type": "minecraft:crafting_shaped",
     "pattern": [
         "TTT",
-        "DLD",
+        "DOD",
         "GLG"
     ],
     "key": {
-        "T": { "item": "minecraft:torch" },
-        "D": { "tag": "c:gems/diamond" },
-        "G": { "tag": "c:storage_blocks/gold" },
-        "L": { "tag": "minecraft:logs" }
+        "T": { "item": "gtceu:glowstone_plate" },
+        "D": { "item": "gtceu:diamond_plate" },
+        "G": { "item": "gtceu:stainless_steel_plate" },
+        "L": { "tag": "minecraft:logs" },
+		"O": { "item": "gtceu:obsidian_plate" }
     },
     "result": {
         "id": "torchmaster:megatorch"
