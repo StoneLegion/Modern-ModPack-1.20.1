@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "item": "gtceu:lv_sensor"
+    },
+    "b": {
+      "item": "gtceu:vacuum_tube"
+    },
+    "c": {
+      "item": "gtceu:lv_emitter"
+    },
+    "d": {
+      "item": "gtceu:basic_electronic_circuit"
+    },
+    "e": {
+      "item": "gtceu:copper_single_wire"
+    },
+    "f": {
+      "item": "minecraft:blue_dye"
+    }
+  },
+  "pattern": [
+    " ab",
+    "cde",
+    "fef"
+  ],
+  "result": {
+    "count": 16,
+    "id": "railcraft:radio_circuit"
+  }
+}

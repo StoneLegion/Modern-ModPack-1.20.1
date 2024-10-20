@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "a": {
-      "item": "minecraft:oak_log"
+      "tag": "c:animal_foods"
     },
     "b": {
-      "item": "minecraft:stone_pressure_plate"
+      "item": "railcraft:any_detector"
     }
   },
   "pattern": [

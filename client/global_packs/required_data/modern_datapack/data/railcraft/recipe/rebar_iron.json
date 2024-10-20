@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "item": "gtceu:iron_rod"
+    }
+  },
+  "pattern": [
+    "  a",
+    " a ",
+    "a  "
+  ],
+  "result": {
+    "count": 4,
+    "id": "railcraft:rebar"
+  }
+}

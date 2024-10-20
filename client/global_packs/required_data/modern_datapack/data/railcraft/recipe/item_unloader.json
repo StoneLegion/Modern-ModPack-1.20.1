@@ -9,7 +9,7 @@
       "item": "railcraft:item_detector"
     },
     "c": {
-      "item": "minecraft:hopper"
+      "item": "gtceu:lv_conveyor_module"
     }
   },
   "pattern": [

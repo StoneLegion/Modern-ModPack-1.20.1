@@ -9,7 +9,7 @@
       "item": "railcraft:receiver_circuit"
     },
     "c": {
-      "item": "minecraft:iron_ingot"
+      "item": "gtceu:iron_plate"
     },
     "d": {
       "tag": "c:dyes/black"
@@ -20,7 +20,7 @@
     " dc"
   ],
   "result": {
-    "count": 1,
+    "count": 2,
     "id": "railcraft:distant_signal"
   }
 }

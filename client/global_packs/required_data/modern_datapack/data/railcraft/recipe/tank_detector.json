@@ -6,16 +6,22 @@
       "item": "minecraft:brick"
     },
     "b": {
-      "item": "minecraft:stone_pressure_plate"
+      "item": "railcraft:tank_minecart"
+    },
+    "c": {
+      "item": "minecraft:rail"
+    },
+    "d": {
+      "item": "railcraft:any_detector"
     }
   },
   "pattern": [
-    "aaa",
     "aba",
-    "aaa"
+    "aca",
+    "ada"
   ],
   "result": {
-    "count": 1,
+    "count": 2,
     "id": "railcraft:tank_detector"
   }
 }

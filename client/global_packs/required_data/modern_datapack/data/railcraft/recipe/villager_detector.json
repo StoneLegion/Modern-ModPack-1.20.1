@@ -6,16 +6,22 @@
       "item": "minecraft:leather"
     },
     "b": {
-      "item": "minecraft:stone_pressure_plate"
+      "item": "minecraft:emerald"
+    },
+    "c": {
+      "item": "minecraft:minecart"
+    },
+    "d": {
+      "item": "railcraft:any_detector"
     }
   },
   "pattern": [
-    "aaa",
     "aba",
-    "aaa"
+    "aca",
+    "ada"
   ],
   "result": {
-    "count": 1,
+    "count": 2,
     "id": "railcraft:villager_detector"
   }
 }

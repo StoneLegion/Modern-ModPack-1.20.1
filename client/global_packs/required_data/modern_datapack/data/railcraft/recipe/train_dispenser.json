@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "a": {
-      "item": "minecraft:redstone"
+      "item": "gtceu:redstone_plate"
     },
     "b": {
       "tag": "railcraft:crowbar"

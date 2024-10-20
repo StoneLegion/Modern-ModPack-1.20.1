@@ -3,22 +3,25 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "c:ingots/copper"
+      "item": "gtceu:copper_rod"
     },
     "b": {
-      "item": "minecraft:stone_button"
+      "item": "gtceu:gold_single_cable"
     },
     "c": {
-      "item": "minecraft:glass_pane"
+      "item": "gtceu:portable_scanner"
     },
     "d": {
-      "tag": "c:ingots/brass"
+      "tag": "c:plates/rubber"
+    },
+    "e": {
+      "tag": "gtceu:batteries/hv"
     }
   },
   "pattern": [
     "a a",
     "bcb",
-    " d "
+    "ded"
   ],
   "result": {
     "count": 1,

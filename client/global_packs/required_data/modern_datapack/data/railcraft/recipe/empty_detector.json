@@ -6,16 +6,19 @@
       "item": "minecraft:stone_bricks"
     },
     "b": {
-      "item": "minecraft:stone_pressure_plate"
+      "item": "minecraft:minecart"
+    },
+    "c": {
+      "item": "railcraft:any_detector"
     }
   },
   "pattern": [
-    "aaa",
+    "a a",
     "aba",
-    "aaa"
+    "aca"
   ],
   "result": {
-    "count": 1,
+    "count": 2,
     "id": "railcraft:empty_detector"
   }
 }

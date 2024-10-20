@@ -3,16 +3,19 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "c:ingots/steel"
+      "item": "minecraft:minecart"
     },
     "b": {
-      "item": "minecraft:stone_pressure_plate"
+      "item": "gtceu:basic_electronic_circuit"
+    },
+    "c": {
+      "item": "railcraft:any_detector"
     }
   },
   "pattern": [
-    "aaa",
-    "aba",
-    "aaa"
+    " a ",
+    " b ",
+    " c "
   ],
   "result": {
     "count": 1,

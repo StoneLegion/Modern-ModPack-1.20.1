@@ -3,16 +3,16 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "c:ingots/steel"
+      "item": "gtceu:steel_plate"
     },
     "b": {
-      "item": "minecraft:redstone"
+      "item": "gtceu:redstone_plate"
     },
     "c": {
       "item": "railcraft:item_loader"
     },
     "d": {
-      "item": "railcraft:steel_shovel"
+      "item": "gtceu:basic_electronic_circuit"
     }
   },
   "pattern": [
