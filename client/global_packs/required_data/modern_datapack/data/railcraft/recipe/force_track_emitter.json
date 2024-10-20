@@ -6,10 +6,10 @@
       "tag": "c:plates/tin"
     },
     "b": {
-      "item": "railcraft:ender_dust"
+      "item": "gtceu:ender_pearl_dust"
     },
     "c": {
-      "item": "railcraft:charge_coil"
+      "item": "gtceu:cupronickel_coil_block"
     },
     "d": {
       "tag": "c:storage_blocks/diamond"
@@ -21,7 +21,7 @@
     "aba"
   ],
   "result": {
-    "count": 1,
+    "count": 2,
     "id": "railcraft:force_track_emitter"
   }
 }

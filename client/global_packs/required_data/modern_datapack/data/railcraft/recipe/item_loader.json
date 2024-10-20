@@ -6,7 +6,7 @@
       "item": "minecraft:cobblestone"
     },
     "b": {
-      "item": "minecraft:hopper"
+      "item": "gtceu:lv_conveyor_module"
     },
     "c": {
       "item": "railcraft:item_detector"

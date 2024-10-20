@@ -3,19 +3,16 @@
   "category": "misc",
   "key": {
     "a": {
-      "item": "gtceu:iron_plate"
-    },
-    "b": {
-      "item": "railcraft:rebar"
+      "item": "gtceu:invar_rod"
     }
   },
   "pattern": [
-    "aaa",
-    "b b",
-    "bbb"
+    "  a",
+    " a ",
+    "a  "
   ],
   "result": {
     "count": 6,
-    "id": "railcraft:frame"
+    "id": "railcraft:rebar"
   }
 }

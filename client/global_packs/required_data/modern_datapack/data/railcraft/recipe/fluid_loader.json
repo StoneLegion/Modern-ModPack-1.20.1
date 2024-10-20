@@ -6,7 +6,7 @@
       "item": "minecraft:glass"
     },
     "b": {
-      "item": "minecraft:hopper"
+      "item": "gtceu:lv_electric_pump"
     },
     "c": {
       "item": "railcraft:detector_track_kit"

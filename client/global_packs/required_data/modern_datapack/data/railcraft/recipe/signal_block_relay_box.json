@@ -3,13 +3,13 @@
   "category": "misc",
   "key": {
     "a": {
-      "item": "minecraft:iron_ingot"
+      "item": "gtceu:iron_plate"
     },
     "b": {
       "item": "railcraft:signal_circuit"
     },
     "c": {
-      "item": "minecraft:redstone"
+      "item": "gtceu:redstone_plate"
     }
   },
   "pattern": [
@@ -18,7 +18,7 @@
     "aca"
   ],
   "result": {
-    "count": 1,
+    "count": 2,
     "id": "railcraft:signal_block_relay_box"
   }
 }

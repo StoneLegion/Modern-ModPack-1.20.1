@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "a": {
-      "item": "minecraft:iron_ingot"
+      "item": "gtceu:iron_plate"
     },
     "b": {
       "item": "railcraft:controller_circuit"
@@ -17,7 +17,7 @@
     "aca"
   ],
   "result": {
-    "count": 1,
+    "count": 2,
     "id": "railcraft:analog_signal_controller_box"
   }
 }

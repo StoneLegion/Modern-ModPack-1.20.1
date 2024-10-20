@@ -3,16 +3,25 @@
   "category": "misc",
   "key": {
     "a": {
-      "item": "minecraft:dark_oak_log"
+      "tag": "c:tiny_dusts"
     },
     "b": {
-      "item": "minecraft:stone_pressure_plate"
+      "tag": "c:small_dusts"
+    },
+    "c": {
+      "tag": "c:dusts"
+    },
+    "d": {
+      "tag": "minecraft:logs"
+    },
+    "e": {
+      "item": "railcraft:any_detector"
     }
   },
   "pattern": [
-    "aaa",
-    "aba",
-    "aaa"
+    "abc",
+    "ded",
+    "ddd"
   ],
   "result": {
     "count": 1,

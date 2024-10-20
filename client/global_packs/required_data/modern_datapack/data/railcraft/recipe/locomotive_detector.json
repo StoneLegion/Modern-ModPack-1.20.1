@@ -3,19 +3,25 @@
   "category": "misc",
   "key": {
     "a": {
-      "item": "railcraft:blast_furnace_bricks"
+      "item": "minecraft:furnace"
     },
     "b": {
-      "item": "minecraft:stone_pressure_plate"
+      "item": "minecraft:minecart"
+    },
+    "c": {
+      "item": "minecraft:rail"
+    },
+    "d": {
+      "item": "railcraft:any_detector"
     }
   },
   "pattern": [
-    "aaa",
-    "aba",
-    "aaa"
+    "abb",
+    "ccc",
+    "cdc"
   ],
   "result": {
-    "count": 1,
+    "count": 4,
     "id": "railcraft:locomotive_detector"
   }
 }

@@ -3,22 +3,31 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "railcraft:iron_tank_wall"
+      "item": "railcraft:whistle_tuner"
     },
     "b": {
-      "item": "railcraft:blast_furnace_bricks"
+      "item": "gtceu:steel_plate"
     },
     "c": {
-      "item": "minecraft:iron_bars"
+      "item": "gtceu:steel_block"
     },
     "d": {
+      "item": "gtceu:hp_steam_solid_boiler"
+    },
+    "e": {
       "item": "minecraft:minecart"
+    },
+    "f": {
+      "item": "railcraft:tank_minecart"
+    },
+    "g": {
+      "item": "minecraft:furnace_minecart"
     }
   },
   "pattern": [
-    "aab",
-    "aab",
-    "cdd"
+    " ab",
+    "cdb",
+    "efg"
   ],
   "result": {
     "count": 1,

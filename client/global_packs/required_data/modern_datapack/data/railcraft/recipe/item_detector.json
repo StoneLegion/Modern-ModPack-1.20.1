@@ -3,19 +3,25 @@
   "category": "misc",
   "key": {
     "a": {
-      "item": "minecraft:stripped_acacia_wood"
+      "tag": "minecraft:logs"
     },
     "b": {
-      "item": "minecraft:stone_pressure_plate"
+      "item": "minecraft:iron_ingot"
+    },
+    "c": {
+      "item": "minecraft:minecart"
+    },
+    "d": {
+      "item": "railcraft:any_detector"
     }
   },
   "pattern": [
-    "aaa",
     "aba",
-    "aaa"
+    "aca",
+    "ada"
   ],
   "result": {
-    "count": 1,
+    "count": 2,
     "id": "railcraft:item_detector"
   }
 }

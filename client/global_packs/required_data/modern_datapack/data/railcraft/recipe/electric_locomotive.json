@@ -6,30 +6,19 @@
       "item": "minecraft:redstone_lamp"
     },
     "b": {
-      "tag": "c:plates/steel"
+      "item": "gtceu:hv_electric_motor"
     },
     "c": {
-      "item": "railcraft:charge_motor"
+      "item": "gtceu:energy_crystal"
     },
-    "d": [
-      {
-        "item": "railcraft:nickel_iron_battery"
-      },
-      {
-        "item": "railcraft:nickel_zinc_battery"
-      }
-    ],
-    "e": {
-      "tag": "c:gears/steel"
-    },
-    "f": {
+    "d": {
       "item": "minecraft:minecart"
     }
   },
   "pattern": [
-    "ab ",
-    "cdc",
-    "efe"
+    " a ",
+    "bcb",
+    "ddd"
   ],
   "result": {
     "count": 1,

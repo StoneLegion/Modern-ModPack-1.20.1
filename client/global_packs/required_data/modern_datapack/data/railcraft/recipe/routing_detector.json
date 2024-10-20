@@ -3,19 +3,28 @@
   "category": "misc",
   "key": {
     "a": {
-      "item": "minecraft:chiseled_quartz_block"
+      "item": "minecraft:minecart"
     },
     "b": {
-      "item": "minecraft:stone_pressure_plate"
+      "item": "minecraft:writable_book"
+    },
+    "c": {
+      "tag": "c:dyes/blue"
+    },
+    "d": {
+      "item": "minecraft:rail"
+    },
+    "e": {
+      "item": "railcraft:any_detector"
     }
   },
   "pattern": [
-    "aaa",
-    "aba",
-    "aaa"
+    "abc",
+    "ded",
+    "ddd"
   ],
   "result": {
-    "count": 1,
+    "count": 2,
     "id": "railcraft:routing_detector"
   }
 }

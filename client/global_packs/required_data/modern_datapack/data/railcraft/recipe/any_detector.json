@@ -6,16 +6,19 @@
       "item": "minecraft:stone"
     },
     "b": {
-      "item": "minecraft:stone_pressure_plate"
+      "item": "minecraft:minecart"
+    },
+    "c": {
+      "item": "gtceu:lv_sensor"
     }
   },
   "pattern": [
-    "aaa",
     "aba",
+    "aca",
     "aaa"
   ],
   "result": {
-    "count": 1,
+    "count": 4,
     "id": "railcraft:any_detector"
   }
 }

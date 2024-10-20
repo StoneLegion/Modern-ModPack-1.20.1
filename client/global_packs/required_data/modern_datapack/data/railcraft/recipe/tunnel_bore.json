@@ -3,22 +3,31 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "c:storage_blocks/steel"
+      "item": "gtceu:steel_block"
     },
     "b": {
-      "item": "minecraft:minecart"
+      "item": "gtceu:lv_robot_arm"
     },
     "c": {
-      "item": "minecraft:furnace"
+      "item": "gtceu:bronze_large_boiler"
     },
     "d": {
+      "item": "minecraft:chest"
+    },
+    "e": {
+      "item": "railcraft:track_undercutter"
+    },
+    "f": {
       "item": "minecraft:chest_minecart"
+    },
+    "g": {
+      "item": "railcraft:track_layer"
     }
   },
   "pattern": [
-    "aba",
-    "cbc",
-    " d "
+    "ab ",
+    "cde",
+    "fg "
   ],
   "result": {
     "count": 1,

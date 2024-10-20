@@ -3,19 +3,22 @@
   "category": "misc",
   "key": {
     "a": {
-      "item": "minecraft:nether_brick"
+      "item": "minecraft:minecart"
     },
     "b": {
-      "item": "minecraft:stone_pressure_plate"
+      "item": "minecraft:rail"
+    },
+    "c": {
+      "item": "railcraft:any_detector"
     }
   },
   "pattern": [
     "aaa",
-    "aba",
-    "aaa"
+    "bbb",
+    "bcb"
   ],
   "result": {
-    "count": 1,
+    "count": 4,
     "id": "railcraft:train_detector"
   }
 }

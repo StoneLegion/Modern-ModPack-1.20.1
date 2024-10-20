@@ -3,13 +3,13 @@
   "category": "misc",
   "key": {
     "a": {
-      "item": "minecraft:iron_ingot"
+      "item": "gtceu:iron_plate"
     },
     "b": {
       "item": "railcraft:controller_circuit"
     },
     "c": {
-      "item": "minecraft:redstone"
+      "item": "gtceu:redstone_plate"
     },
     "d": {
       "item": "railcraft:receiver_circuit"
@@ -21,7 +21,7 @@
     "aca"
   ],
   "result": {
-    "count": 1,
+    "count": 2,
     "id": "railcraft:signal_interlock_box"
   }
 }
