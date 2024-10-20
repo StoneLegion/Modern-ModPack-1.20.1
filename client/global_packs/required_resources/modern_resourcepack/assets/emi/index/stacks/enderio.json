@@ -100,6 +100,90 @@
     "item:enderio:iron_gear",
     "item:enderio:energized_gear",
     "item:enderio:vibrant_gear",
-    "item:enderio:dark_bimetal_gear"
+    "item:enderio:dark_bimetal_gear",
+	"item:enderio:soularium_nugget",
+    "item:enderio:vibrant_alloy_nugget",
+    "item:enderio:pulsating_alloy_nugget",
+    "item:enderio:dark_steel_nugget",
+    "item:enderio:copper_alloy_ingot",
+    "item:enderio:energetic_alloy_ingot",
+    "item:enderio:vibrant_alloy_ingot",
+    "item:enderio:redstone_alloy_ingot",
+    "item:enderio:conductive_alloy_ingot",
+    "item:enderio:pulsating_alloy_ingot",
+    "item:enderio:dark_steel_ingot",
+    "item:enderio:end_steel_ingot",
+    "item:enderio:soularium_ingot",
+    "item:enderio:wood_gear",
+    "item:enderio:stone_gear",
+    "item:enderio:iron_gear",
+    "item:enderio:energized_gear",
+    "item:enderio:vibrant_gear",
+    "item:enderio:dark_bimetal_gear",
+    "item:enderio:soul_engine",
+    "item:enderio:vat",
+    "item:enderio:ender_resonator",
+    "item:enderio:skeletal_contractor",
+    "item:enderio:guardian_diode",
+    "item:enderio:sentient_ender",
+    "item:enderio:basic_capacitor",
+    "item:enderio:double_layer_capacitor",
+    "item:enderio:octadic_capacitor",
+    "item:enderio:enticing_crystal",
+    "item:enderio:zombie_electrode",
+    "item:enderio:frank_n_zombie",
+    "item:enderio:conduit{\"enderio:conduit\":\"enderio:energy\"}",
+    "item:enderio:conduit{\"enderio:conduit\":\"enderio:enhanced_energy\"}",
+    "item:enderio:conduit{\"enderio:conduit\":\"enderio:ender_energy\"}",
+    {
+      "type": "fluid",
+      "id": "enderio:fluid_cloud_seed_concentrated_still",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "enderio:fluid_cloud_seed_still",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "enderio:fluid_nutrient_distillation_still",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "enderio:fluid_dew_of_the_void_still",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "enderio:fluid_vapor_of_levity_still",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "enderio:fluid_hootch_still",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "enderio:fluid_rocket_fuel_still",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "enderio:fluid_fire_water_still",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "enderio:fluid_xp_juice_still",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "enderio:fluid_liquid_sunshine_still",
+      "amount": 0
+    }
 	]
 }
