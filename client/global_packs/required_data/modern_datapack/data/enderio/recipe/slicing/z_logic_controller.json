@@ -3,13 +3,13 @@
   "energy": 20000,
   "inputs": [
     {
-      "tag": "c:ingots/soularium"
+      "item": "kubejs:soularium_ingot"
     },
     {
       "item": "minecraft:zombie_head"
     },
     {
-      "tag": "c:ingots/soularium"
+      "item": "kubejs:soularium_ingot"
     },
     {
       "tag": "c:silicon"

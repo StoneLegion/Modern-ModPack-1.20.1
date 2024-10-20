@@ -3,19 +3,19 @@
   "category": "misc",
   "key": {
     "B": {
-      "item": "minecraft:iron_bars"
+      "item": "gtceu:stainless_steel_plate"
     },
     "C": {
       "item": "enderio:ensouled_chassis"
     },
     "G": {
-      "tag": "c:gears/energized"
+      "item": "gtceu:stainless_steel_gear"
     },
     "H": {
       "tag": "minecraft:skulls"
     },
     "I": {
-      "tag": "c:ingots/soularium"
+      "item": "kubejs:soularium_ingot"
     }
   },
   "pattern": [

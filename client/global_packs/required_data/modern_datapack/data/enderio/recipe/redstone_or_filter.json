@@ -6,7 +6,7 @@
       "item": "enderio:redstone_filter_base"
     },
     "I": {
-      "tag": "c:ingots/redstone_alloy"
+      "item": "gtceu:red_alloy_plate"
     }
   },
   "pattern": [

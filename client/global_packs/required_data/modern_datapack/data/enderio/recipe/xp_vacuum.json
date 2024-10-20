@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "I": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:stainless_steel_plate"
     },
     "P": {
       "tag": "c:gems/pulsating_crystal"

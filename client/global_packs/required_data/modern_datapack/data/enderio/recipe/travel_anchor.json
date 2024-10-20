@@ -9,7 +9,7 @@
       "tag": "c:gems/pulsating_crystal"
     },
     "I": {
-      "tag": "c:ingots/iron"
+      "item": "kubejs:dark_steel_ingot"
     }
   },
   "pattern": [

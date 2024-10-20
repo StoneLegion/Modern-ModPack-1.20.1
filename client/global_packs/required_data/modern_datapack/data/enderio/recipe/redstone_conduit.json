@@ -6,7 +6,7 @@
       "item": "enderio:conduit_binder"
     },
     "I": {
-      "tag": "c:ingots/redstone_alloy"
+      "item": "gtceu:red_alloy_plate"
     }
   },
   "pattern": [

@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "A": {
-      "tag": "c:ingots/soularium"
+      "item": "kubejs:soularium_ingot"
     },
     "I": {
-      "tag": "c:ingots/dark_steel"
+      "item": "kubejs:dark_steel_ingot"
     },
     "P": {
       "item": "minecraft:piston"

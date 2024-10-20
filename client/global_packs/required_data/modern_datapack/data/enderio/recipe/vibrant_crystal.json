@@ -6,7 +6,7 @@
       "tag": "c:gems/emerald"
     },
     "P": {
-      "tag": "c:nuggets/vibrant_alloy"
+      "item": "kubejs:vibrant_alloy_ingot"
     }
   },
   "pattern": [

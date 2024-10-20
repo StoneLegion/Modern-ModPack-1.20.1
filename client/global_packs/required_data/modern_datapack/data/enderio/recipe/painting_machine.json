@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "A": {
-      "tag": "c:ingots/redstone_alloy"
+      "item": "gtceu:red_alloy_plate"
     },
     "B": {
       "tag": "c:dyes/blue"
@@ -15,10 +15,10 @@
       "tag": "c:dyes/green"
     },
     "I": {
-      "tag": "c:ingots/copper_alloy"
+      "item": "gtceu:steel_plate"
     },
     "M": {
-      "tag": "c:gears/iron"
+      "item": "gtceu:steel_gear"
     },
     "R": {
       "tag": "c:dyes/red"

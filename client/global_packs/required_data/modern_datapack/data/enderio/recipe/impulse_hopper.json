@@ -6,16 +6,16 @@
       "item": "enderio:void_chassis"
     },
     "G": {
-      "tag": "c:gears/iron"
+      "item": "gtceu:steel_gear"
     },
     "H": {
       "item": "minecraft:hopper"
     },
     "I": {
-      "tag": "c:ingots/copper_alloy"
+      "item": "gtceu:steel_plate"
     },
     "R": {
-      "tag": "c:ingots/redstone_alloy"
+      "item": "gtceu:red_alloy_plate"
     }
   },
   "pattern": [

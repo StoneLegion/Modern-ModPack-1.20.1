@@ -3,7 +3,7 @@
   "category": "building",
   "key": {
     "I": {
-      "tag": "c:ingots/end_steel"
+      "item": "kubejs:end_steel_ingot"
     }
   },
   "pattern": [

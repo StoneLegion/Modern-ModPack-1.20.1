@@ -6,10 +6,10 @@
       "item": "enderio:extraction_speed_upgrade_1"
     },
     {
-      "tag": "c:ingots/conductive_alloy"
+      "item": "kubejs:conductive_alloy_ingot"
     },
     {
-      "tag": "c:ingots/conductive_alloy"
+      "item": "kubejs:conductive_alloy_ingot"
     }
   ],
   "result": {

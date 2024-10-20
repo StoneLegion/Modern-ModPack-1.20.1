@@ -3,10 +3,10 @@
   "category": "equipment",
   "key": {
     "G": {
-      "tag": "c:gears/stone"
+      "item": "gtceu:iron_gear"
     },
     "I": {
-      "tag": "c:ingots/copper_alloy"
+      "gtceu:stainless_steel_plate"
     }
   },
   "pattern": [

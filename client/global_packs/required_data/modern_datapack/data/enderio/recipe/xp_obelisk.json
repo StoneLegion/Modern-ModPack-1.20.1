@@ -6,7 +6,7 @@
       "item": "enderio:ensouled_chassis"
     },
     "I": {
-      "tag": "c:ingots/soularium"
+      "item": "kubejs:soularium_ingot"
     },
     "R": {
       "item": "enderio:experience_rod"

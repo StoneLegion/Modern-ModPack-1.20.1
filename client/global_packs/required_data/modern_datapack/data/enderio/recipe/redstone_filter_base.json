@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "I": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:steel_plate"
     },
     "P": [
       {
@@ -14,7 +14,7 @@
       }
     ],
     "R": {
-      "tag": "c:ingots/redstone_alloy"
+      "item": "gtceu:red_alloy_plate"
     }
   },
   "pattern": [

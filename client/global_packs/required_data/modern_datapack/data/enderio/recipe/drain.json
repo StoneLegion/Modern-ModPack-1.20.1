@@ -9,10 +9,10 @@
       "tag": "c:glass_blocks/clear"
     },
     "G": {
-      "tag": "c:gears/iron"
+      "item": "gtceu:steel_gear"
     },
     "I": {
-      "tag": "c:ingots/copper_alloy"
+      "item": "gtceu:steel_plate"
     },
     "V": {
       "item": "enderio:void_chassis"

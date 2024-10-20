@@ -6,13 +6,13 @@
       "item": "enderio:void_chassis"
     },
     "G": {
-      "tag": "c:gears/iron"
+      "item": "gtceu:steel_gear"
     },
     "I": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:steel_plate"
     },
     "S": {
-      "tag": "c:silicon"
+      "item": "gtceu:rubber_plate"
     },
     "T": {
       "item": "minecraft:crafting_table"

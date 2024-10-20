@@ -6,10 +6,10 @@
       "item": "enderio:ensouled_chassis"
     },
     "G": {
-      "tag": "c:gears/energized"
+      "item": "gtceu:stainless_steel_gear"
     },
     "I": {
-      "tag": "c:ingots/soularium"
+      "item": "kubejs:soularium_ingot"
     },
     "V": {
       "item": "enderio:empty_soul_vial"

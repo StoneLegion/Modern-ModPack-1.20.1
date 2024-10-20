@@ -6,7 +6,7 @@
       "tag": "c:chests"
     },
     "I": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:steel_plate"
     },
     "P": {
       "tag": "c:gems/pulsating_crystal"

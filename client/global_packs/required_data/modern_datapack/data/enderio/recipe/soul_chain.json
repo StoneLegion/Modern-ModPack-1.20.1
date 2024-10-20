@@ -3,13 +3,13 @@
   "category": "building",
   "key": {
     "I": {
-      "tag": "c:ingots/soularium"
+      "item": "kubejs:soularium_ingot"
     },
     "N": {
-      "tag": "c:nuggets/soularium"
+      "item": "minecraft:chain"
     },
     "Q": {
-      "tag": "c:dusts/quartz"
+      "item": "gtceu:nether_quartz_plate"
     }
   },
   "pattern": [

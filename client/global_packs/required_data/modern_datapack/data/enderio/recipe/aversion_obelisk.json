@@ -6,13 +6,13 @@
       "item": "enderio:ensouled_chassis"
     },
     "E": {
-      "tag": "c:ingots/energetic_alloy"
+      "item": "kubejs:energetic_alloy_ingot"
     },
     "H": {
       "item": "enderio:enderman_head"
     },
     "I": {
-      "tag": "c:ingots/soularium"
+      "item": "kubejs:soularium_ingot"
     }
   },
   "pattern": [

@@ -4,6 +4,6 @@
   "enchantment": "minecraft:impaling",
   "input": {
     "count": 8,
-    "tag": "c:ingots/iron"
+    "item": "gtceu:steel_plate"
   }
 }

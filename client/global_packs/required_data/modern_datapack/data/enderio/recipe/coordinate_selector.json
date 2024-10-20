@@ -6,10 +6,10 @@
       "item": "minecraft:compass"
     },
     "E": {
-      "tag": "c:ender_pearls"
+      "item": "gtceu:ender_pearl_plate"
     },
     "I": {
-      "tag": "c:ingots/copper_alloy"
+      "item": "gtceu:stainless_steel_plate"
     }
   },
   "pattern": [

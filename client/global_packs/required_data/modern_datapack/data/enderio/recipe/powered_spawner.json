@@ -9,7 +9,7 @@
       "item": "enderio:ensouled_chassis"
     },
     "I": {
-      "tag": "c:ingots/soularium"
+      "item": "kubejs:soularium_ingot"
     },
     "V": {
       "tag": "c:gems/vibrant_crystal"

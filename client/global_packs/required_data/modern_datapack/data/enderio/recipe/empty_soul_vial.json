@@ -6,7 +6,7 @@
       "tag": "c:glass_blocks/fused_quartz"
     },
     "S": {
-      "tag": "c:ingots/soularium"
+      "item": "kubejs:soularium_ingot"
     }
   },
   "pattern": [

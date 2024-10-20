@@ -6,10 +6,10 @@
       "item": "minecraft:book"
     },
     "D": {
-      "tag": "c:gems/diamond"
+      "item": "gtceu:diamond_plate"
     },
     "I": {
-      "tag": "c:ingots/dark_steel"
+      "item": "kubejs:dark_steel_ingot"
     }
   },
   "pattern": [

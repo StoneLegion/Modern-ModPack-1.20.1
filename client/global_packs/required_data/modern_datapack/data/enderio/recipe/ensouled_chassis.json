@@ -6,10 +6,10 @@
       "item": "enderio:soul_chain"
     },
     "I": {
-      "tag": "c:ingots/soularium"
+      "item": "kubejs:soularium_ingot"
     },
     "Q": {
-      "tag": "c:gems/quartz"
+      "item": "enderio:void_chassis"
     }
   },
   "pattern": [

@@ -3,10 +3,10 @@
   "category": "equipment",
   "key": {
     "C": {
-      "tag": "c:ingots/conductive_alloy"
+      "item": "kubejs:conductive_alloy_ingot"
     },
     "E": {
-      "tag": "c:ingots/copper_alloy"
+      "item": "gtceu:stainless_steel_plate"
     },
     "V": {
       "tag": "c:gems/vibrant_crystal"

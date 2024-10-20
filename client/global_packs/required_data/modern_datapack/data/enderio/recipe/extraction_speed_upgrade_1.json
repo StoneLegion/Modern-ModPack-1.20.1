@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "A": {
-      "tag": "c:ingots/redstone_alloy"
+      "item": "gtceu:red_alloy_plate"
     },
     "I": {
-      "tag": "c:ingots/iron"
+      "item": "gtceu:steel_plate"
     },
     "P": {
       "item": "minecraft:piston"

@@ -1,18 +1,25 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "building",
   "key": {
-    "I": {
-      "tag": "c:ingots/dark_steel"
+    "S": {
+      "item": "kubejs:dark_steel_ingot"
+    },
+    "r": {
+      "tag": "c:tools/mallets"
+    },
+    "h": {
+      "tag": "c:tools/hammers"
     }
   },
   "pattern": [
-    " I ",
-    " I ",
-    " I "
+    "SrS",
+    "SSS",
+    "ShS"
   ],
   "result": {
-    "count": 12,
-    "id": "enderio:dark_steel_ladder"
-  }
+    "id": "enderio:dark_steel_ladder",
+    "count": 14
+  },
+  "show_notification": false,
+  "category": "misc",
+  "type": "minecraft:crafting_shaped"
 }

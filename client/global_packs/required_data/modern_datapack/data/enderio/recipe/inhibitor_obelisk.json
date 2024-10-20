@@ -6,13 +6,13 @@
       "item": "enderio:ensouled_chassis"
     },
     "E": {
-      "tag": "c:ingots/energetic_alloy"
+      "item": "kubejs:energetic_alloy_ingot"
     },
     "G": {
-      "item": "enderio:iron_gear"
+      "item": "gtceu:steel_gear"
     },
     "I": {
-      "tag": "c:ingots/soularium"
+      "item": "kubejs:soularium_ingot"
     },
     "M": {
       "item": "enderio:ender_crystal"

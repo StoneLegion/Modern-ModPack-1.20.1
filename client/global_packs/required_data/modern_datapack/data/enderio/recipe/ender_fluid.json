@@ -9,7 +9,7 @@
       "tag": "c:glass_blocks/fused_quartz"
     },
     "I": {
-      "tag": "c:ingots/vibrant_alloy"
+      "item": "kubejs:vibrant_alloy_ingot"
     }
   },
   "pattern": [
