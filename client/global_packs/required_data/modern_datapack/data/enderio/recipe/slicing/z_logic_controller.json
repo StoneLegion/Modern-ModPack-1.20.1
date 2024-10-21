@@ -12,13 +12,13 @@
       "item": "kubejs:soularium_ingot"
     },
     {
-      "tag": "c:silicon"
+      "item": "gtceu:silicon_plate"
     },
     {
       "item": "minecraft:redstone"
     },
     {
-      "tag": "c:silicon"
+      "item": "gtceu:silicon_plate"
     }
   ],
   "output": {
