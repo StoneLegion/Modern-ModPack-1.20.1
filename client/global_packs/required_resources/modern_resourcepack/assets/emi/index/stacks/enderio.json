@@ -129,6 +129,7 @@
     "item:enderio:enticing_crystal",
     "item:enderio:zombie_electrode",
     "item:enderio:frank_n_zombie",
+	 "item:enderio:grains_of_infinity",
     "item:enderio:conduit{\"enderio:conduit\":\"enderio:energy\"}",
     "item:enderio:conduit{\"enderio:conduit\":\"enderio:enhanced_energy\"}",
     "item:enderio:conduit{\"enderio:conduit\":\"enderio:ender_energy\"}",
