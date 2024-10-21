@@ -1,0 +1,9 @@
+{
+  "filters": [
+    "/computercraft:turtle_normal/",
+    "/computercraft:turtle_advanced/"
+	],
+	"removed": [
+	"item:minecraft:crafter"
+	]
+}
