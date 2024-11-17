@@ -9,7 +9,7 @@
   "category": "misc",
   "key": {
     "C": {
-      "tag": "c:chests"
+      "tag": "forge:chests/wooden"
     },
     "R": {
       "item": "minecraft:chest"

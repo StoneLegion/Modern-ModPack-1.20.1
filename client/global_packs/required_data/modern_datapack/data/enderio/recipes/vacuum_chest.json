@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "C": {
-      "tag": "c:chests"
+      "tag": "forge:chests/wooden"
     },
     "I": {
       "item": "gtceu:steel_plate"
