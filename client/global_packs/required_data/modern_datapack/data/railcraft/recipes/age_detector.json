@@ -3,13 +3,13 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "c:tiny_dusts"
+      "tag": "forge:tiny_dusts"
     },
     "b": {
-      "tag": "c:small_dusts"
+      "tag": "forge:small_dusts"
     },
     "c": {
-      "tag": "c:dusts"
+      "tag": "forge:dusts"
     },
     "d": {
       "tag": "minecraft:logs"

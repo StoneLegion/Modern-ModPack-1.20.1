@@ -9,7 +9,7 @@
   "category": "misc",
   "key": {
     "B": {
-      "tag": "c:storage_blocks/diamond"
+      "item": "minecraft:diamond_block"
     },
     "D": {
       "item": "gtceu:diamond_plate"

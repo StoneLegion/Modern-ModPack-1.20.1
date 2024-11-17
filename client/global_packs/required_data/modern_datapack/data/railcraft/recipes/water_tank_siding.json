@@ -6,7 +6,7 @@
       "tag": "minecraft:planks"
     },
     "b": {
-      "tag": "c:ingots/iron"
+      "item": "minecraft:iron_ingot"
     },
     "c": {
       "item": "minecraft:slime_ball"

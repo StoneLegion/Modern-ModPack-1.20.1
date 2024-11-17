@@ -3,13 +3,13 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "c:ingots/iron"
+      "item": "minecraft:iron_ingot"
     },
     "b": {
       "item": "minecraft:stick"
     },
     "c": {
-      "tag": "c:storage_blocks/iron"
+      "item": "minecraft:iron_block"
     }
   },
   "pattern": [

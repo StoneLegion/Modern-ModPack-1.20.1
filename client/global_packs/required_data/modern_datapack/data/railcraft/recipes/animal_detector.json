@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "c:animal_foods"
+      "tag": "forge:crops"
     },
     "b": {
       "item": "railcraft:any_detector"

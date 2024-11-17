@@ -9,7 +9,7 @@
   "category": "misc",
   "key": {
     "B": {
-      "tag": "c:storage_blocks/iron"
+      "item": "minecraft:iron_block"
     },
     "I": {
       "item": "gtceu:iron_plate"

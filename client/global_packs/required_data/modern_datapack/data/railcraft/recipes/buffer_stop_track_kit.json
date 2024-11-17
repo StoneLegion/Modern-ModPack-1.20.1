@@ -9,10 +9,10 @@
       "item": "railcraft:track_parts"
     },
     {
-      "tag": "c:ingots/iron"
+      "item": "minecraft:iron_ingot"
     },
     {
-      "tag": "c:ingots/iron"
+      "item": "minecraft:iron_ingot"
     }
   ],
   "result": {

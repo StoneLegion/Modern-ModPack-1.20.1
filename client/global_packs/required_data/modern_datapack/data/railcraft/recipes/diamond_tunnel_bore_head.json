@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "c:ingots/steel"
+      "tag": "forge:ingots/steel"
     },
     "b": {
-      "tag": "c:storage_blocks/diamond"
+      "item": "minecraft:diamond_block"
     }
   },
   "pattern": [

@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "c:plates/tin"
+      "tag": "forge:plates/tin"
     },
     "b": {
       "item": "gtceu:ender_pearl_dust"
@@ -12,7 +12,7 @@
       "item": "gtceu:cupronickel_coil_block"
     },
     "d": {
-      "tag": "c:storage_blocks/diamond"
+      "item": "minecraft:diamond_block"
     }
   },
   "pattern": [

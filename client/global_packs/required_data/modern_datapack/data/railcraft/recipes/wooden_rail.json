@@ -6,7 +6,7 @@
       "item": "railcraft:wooden_tie"
     },
     {
-      "tag": "c:ingots/iron"
+      "item": "minecraft:iron_ingot"
     }
   ],
   "result": {
