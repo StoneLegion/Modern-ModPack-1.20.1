@@ -3,7 +3,7 @@
   "category": "redstone",
   "key": {
     "#": {"item": "gtceu:aluminium_plate"},
-    "G": {"tag": "c:glass_panes"},
+    "G": {"tag": "forge:glass_panes"},
     "R": {"item": "minecraft:command_block"}
   },
   "pattern": ["###", "#R#", "#G#"],
