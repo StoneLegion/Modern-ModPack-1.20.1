@@ -12,7 +12,7 @@
       "item": "minecraft:chest"
     },
     {
-      "tag": "c:ingots/netherite"
+      "item": "minecraft:netherite_ingot"
     }
   ],
   "result": {
