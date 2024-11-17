@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "D": {
-      "tag": "c:gems/emerald"
+      "item": "minecraft:emerald"
     },
     "P": {
       "item": "kubejs:vibrant_alloy_ingot"

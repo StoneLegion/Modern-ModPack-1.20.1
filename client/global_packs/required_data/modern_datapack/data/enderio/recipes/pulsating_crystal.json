@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "D": {
-      "tag": "c:gems/diamond"
+      "item": "minecraft:diamond"
     },
     "P": {
       "item": "kubejs:pulsating_alloy_ingot"

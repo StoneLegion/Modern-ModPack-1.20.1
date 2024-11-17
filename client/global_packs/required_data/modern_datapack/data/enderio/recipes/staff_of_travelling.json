@@ -3,7 +3,7 @@
   "category": "equipment",
   "key": {
     "C": {
-      "tag": "c:gems/ender_crystal"
+      "item": "enderio:ender_crystal"
     },
     "I": {
       "item": "kubejs:dark_steel_ingot"

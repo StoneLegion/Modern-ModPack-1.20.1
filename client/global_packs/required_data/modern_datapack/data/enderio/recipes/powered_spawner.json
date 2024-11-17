@@ -12,7 +12,7 @@
       "item": "kubejs:soularium_ingot"
     },
     "V": {
-      "tag": "c:gems/vibrant_crystal"
+      "item": "enderio:vibrant_crystal"
     },
     "Z": {
       "item": "enderio:z_logic_controller"

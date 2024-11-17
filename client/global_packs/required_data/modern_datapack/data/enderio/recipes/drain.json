@@ -6,7 +6,7 @@
       "item": "minecraft:bucket"
     },
     "C": {
-      "tag": "c:glass_blocks/clear"
+      "tag": "enderio:clear_glass"
     },
     "G": {
       "item": "gtceu:steel_gear"

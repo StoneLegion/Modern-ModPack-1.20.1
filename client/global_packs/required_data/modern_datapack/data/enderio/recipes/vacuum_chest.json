@@ -9,7 +9,7 @@
       "item": "gtceu:steel_plate"
     },
     "P": {
-      "tag": "c:gems/pulsating_crystal"
+      "item": "enderio:pulsating_crystal"
     }
   },
   "pattern": [

@@ -4,10 +4,10 @@
       "item": "kubejs:dark_steel_ingot"
     },
     "r": {
-      "tag": "c:tools/mallets"
+      "tag": "forge:tools/mallets"
     },
     "h": {
-      "tag": "c:tools/hammers"
+      "tag": "forge:tools/hammers"
     }
   },
   "pattern": [

@@ -6,7 +6,7 @@
       "item": "enderio:conduit_binder"
     },
     "C": {
-      "tag": "c:gems/pulsating_crystal"
+      "item": "enderio:pulsating_crystal"
     },
     "I": {
       "item": "kubejs:dark_steel_ingot"

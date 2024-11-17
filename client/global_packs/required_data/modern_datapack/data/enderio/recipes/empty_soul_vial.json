@@ -3,7 +3,7 @@
   "category": "equipment",
   "key": {
     "Q": {
-      "tag": "c:glass_blocks/fused_quartz"
+      "tag": "enderio:fused_quartz"
     },
     "S": {
       "item": "kubejs:soularium_ingot"

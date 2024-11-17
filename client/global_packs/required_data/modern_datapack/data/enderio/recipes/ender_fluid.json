@@ -6,7 +6,7 @@
       "item": "enderio:conduit_binder"
     },
     "G": {
-      "tag": "c:glass_blocks/fused_quartz"
+      "tag": "enderio:fused_quartz"
     },
     "I": {
       "item": "kubejs:vibrant_alloy_ingot"
