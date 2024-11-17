@@ -13,7 +13,7 @@
       "item": "gtceu:steel_plate"
     },
     "C": {
-      "tag": "c:buckets/empty"
+      "item": "minecraft:bucket"
     }
   },
   "result": {
