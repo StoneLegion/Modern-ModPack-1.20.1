@@ -21,7 +21,7 @@
       "item": "minecraft:repeater"
     },
     "S": {
-      "tag": "c:stones"
+      "tag": "forge:stone"
     }
   },
   "pattern": [
