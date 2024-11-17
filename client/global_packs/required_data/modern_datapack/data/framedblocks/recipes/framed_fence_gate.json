@@ -3,7 +3,7 @@
   "category": "building",
   "key": {
     "F": {
-      "tag": "c:fence_gates/wooden"
+      "tag": "forge:fence_gates/wooden"
     },
     "S": {
       "item": "framedblocks:framed_cube"
