@@ -15,7 +15,7 @@
       "item": "sophisticatedbackpacks:upgrade_base"
     },
     "C": {
-      "tag": "c:chests/wooden"
+      "tag": "forge:chests/wooden"
     },
     "D": {
       "item": "gtceu:diamond_plate"

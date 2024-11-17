@@ -13,7 +13,7 @@
       "item": "gtceu:steel_plate"
     },
     "C": {
-      "tag": "c:chests/wooden"
+      "tag": "forge:chests/wooden"
     }
   },
   "result": {

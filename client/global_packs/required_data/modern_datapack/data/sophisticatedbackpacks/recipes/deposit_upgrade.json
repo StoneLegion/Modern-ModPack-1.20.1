@@ -12,7 +12,7 @@
       "item": "sophisticatedbackpacks:upgrade_base"
     },
     "C": {
-      "tag": "c:chests/wooden"
+      "tag": "forge:chests/wooden"
     },
     "I": {
       "item": "gtceu:iron_plate"
