@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "c:rods/wooden"
+      "tag": "forge:rods/wooden"
     },
     "b": {
       "item": "gtceu:aluminium_plate"
