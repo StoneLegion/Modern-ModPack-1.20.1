@@ -3,5 +3,5 @@
   "category": "redstone",
   "key": {"#": {"item": "gtceu:aluminium_plate"}, "A": {"tag": "gtceu:circuits/mv"}, "G": {"tag": "forge:glass_panes"}},
   "pattern": ["###", "#A#", "#G#"],
-  "result": {"count": 1, "id": "computercraft:pocket_computer_advanced"}
+  "result": {"count": 1, "item": "computercraft:pocket_computer_advanced"}
 }

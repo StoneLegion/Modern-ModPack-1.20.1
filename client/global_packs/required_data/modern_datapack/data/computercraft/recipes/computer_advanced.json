@@ -3,5 +3,5 @@
   "category": "redstone",
   "key": {"#": {"item": "gtceu:aluminium_plate"}, "G": {"tag": "gtceu:circuits/mv"}, "R": {"item": "gtceu:red_alloy_plate"}},
   "pattern": ["###", "#R#", "#G#"],
-  "result": {"count": 1, "id": "computercraft:computer_advanced"}
+  "result": {"count": 1, "item": "computercraft:computer_advanced"}
 }

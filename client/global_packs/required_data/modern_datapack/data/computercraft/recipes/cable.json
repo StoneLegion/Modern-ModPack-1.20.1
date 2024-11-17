@@ -3,5 +3,5 @@
   "category": "redstone",
   "key": {"#": {"item": "gtceu:rubber_plate"}, "R": {"item": "gtceu:red_alloy_plate"}},
   "pattern": [" # ", "#R#", " # "],
-  "result": {"count": 4, "id": "computercraft:cable"}
+  "result": {"count": 4, "item": "computercraft:cable"}
 }

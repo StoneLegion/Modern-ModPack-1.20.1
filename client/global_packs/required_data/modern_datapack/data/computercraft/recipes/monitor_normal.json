@@ -3,5 +3,5 @@
   "category": "redstone",
   "key": {"#": {"item": "gtceu:steel_plate"}, "G": {"tag": "forge:glass_panes"}},
   "pattern": ["###", "#G#", "###"],
-  "result": {"count": 1, "id": "computercraft:monitor_normal"}
+  "result": {"count": 1, "item": "computercraft:monitor_normal"}
 }

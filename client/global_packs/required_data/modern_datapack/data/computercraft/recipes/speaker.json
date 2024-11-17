@@ -7,5 +7,5 @@
     "R": {"item": "gtceu:red_alloy_plate"}
   },
   "pattern": ["###", "#N#", "#R#"],
-  "result": {"count": 1, "id": "computercraft:speaker"}
+  "result": {"count": 1, "item": "computercraft:speaker"}
 }
