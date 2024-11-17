@@ -15,7 +15,7 @@
       "tag": "c:chests/wooden"
     },
     "E": {
-      "tag": "c:ender_pearls"
+      "item": "minecraft:ender_pearl"
     },
     "I": {
       "item": "gtceu:iron_plate"

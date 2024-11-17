@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "c:glass_blocks"
+      "tag": "forge:glass"
     },
     "b": {
       "item": "ae2:fluix_glass_cable"

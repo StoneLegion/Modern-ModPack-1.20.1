@@ -8,7 +8,7 @@
     "key": {
         "I": { "item": "gtceu:stainless_steel_plate" },
         "g": { "item": "gtceu:glowstone_plate" },
-        "G": { "tag": "c:glass_blocks" },
+        "G": { "tag": "forge:glass" },
 		"O": { "item": "gtceu:obsidian_plate" }
     },
     "result": {

@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "c:glass_blocks"
+      "tag": "forge:glass"
     },
     "b": {
       "item": "gtceu:certus_quartz_plate"
