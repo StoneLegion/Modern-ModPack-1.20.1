@@ -15,7 +15,7 @@
       "item": "gtceu:red_alloy_plate"
     },
     "S": {
-      "tag": "c:strings"
+      "item": "minecraft:string"
     }
   },
   "pattern": [

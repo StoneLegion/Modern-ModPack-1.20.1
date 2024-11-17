@@ -10,10 +10,10 @@
       "item": "gtceu:treated_wood_rod"
     },
     "F": {
-      "tag": "c:strings"
+      "item": "minecraft:string"
     },
     "L": {
-      "tag": "c:leathers"
+      "item": "minecraft:leather"
     }
   },
   "result": {

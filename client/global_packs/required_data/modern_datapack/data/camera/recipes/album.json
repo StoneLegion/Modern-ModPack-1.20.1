@@ -2,10 +2,10 @@
   "type": "crafting_shapeless",
   "ingredients": [
     {
-      "tag": "c:strings"
+      "item": "minecraft:string"
     },
     {
-      "tag": "c:leathers"
+      "item": "minecraft:leather"
     },
     {
       "item": "minecraft:book"

@@ -12,10 +12,10 @@
       "item": "gtceu:iron_plate"
     },
     "L": {
-      "tag": "c:leathers"
+      "item": "minecraft:leather"
     },
     "S": {
-      "tag": "c:strings"
+      "item": "minecraft:string"
     }
   },
   "pattern": [

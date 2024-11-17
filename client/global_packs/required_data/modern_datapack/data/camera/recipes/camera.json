@@ -16,7 +16,7 @@
       "item": "minecraft:stone_button"
     },
     "G": {
-      "tag": "c:glass_panes/colorless"
+      "tag": "forge:glass_panes"
     }
   },
   "result": {
