@@ -1,7 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "redstone",
-  "key": {"#": {"item": "gtceu:steel_plate"}, "D": {"tag": "c:dyes"}, "R": {"item": "gtceu:red_alloy_plate"}},
+  "key": {"#": {"item": "gtceu:steel_plate"}, "D": {"tag": "forge:dyes"}, "R": {"item": "gtceu:red_alloy_plate"}},
   "pattern": ["###", "#R#", "#D#"],
   "result": {"count": 1, "item": "computercraft:printer"}
 }
