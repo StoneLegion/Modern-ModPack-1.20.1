@@ -9,7 +9,7 @@
   "category": "misc",
   "key": {
     "B": {
-      "tag": "c:storage_blocks/gold"
+      "item": "minecraft:gold_block"
     },
     "G": {
       "item": "gtceu:gold_plate"

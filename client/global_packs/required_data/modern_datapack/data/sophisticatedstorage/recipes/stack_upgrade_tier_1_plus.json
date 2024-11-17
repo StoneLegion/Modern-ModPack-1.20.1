@@ -9,7 +9,7 @@
   "category": "misc",
   "key": {
     "B": {
-      "tag": "c:storage_blocks/copper"
+      "item": "minecraft:copper_block"
     },
     "C": {
       "item": "gtceu:copper_plate"
