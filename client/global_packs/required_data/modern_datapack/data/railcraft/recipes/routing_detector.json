@@ -9,7 +9,7 @@
       "item": "minecraft:writable_book"
     },
     "c": {
-      "tag": "c:dyes/blue"
+      "tag": "forge:dyes/blue"
     },
     "d": {
       "item": "minecraft:rail"

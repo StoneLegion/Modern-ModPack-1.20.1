@@ -6,13 +6,13 @@
       "item": "minecraft:glass_pane"
     },
     "b": {
-      "tag": "c:dyes/lime"
+      "tag": "forge:dyes/lime"
     },
     "c": {
-      "tag": "c:dyes/yellow"
+      "tag": "forge:dyes/yellow"
     },
     "d": {
-      "tag": "c:dyes/red"
+      "tag": "forge:dyes/black"
     },
     "e": {
       "item": "minecraft:glowstone_dust"

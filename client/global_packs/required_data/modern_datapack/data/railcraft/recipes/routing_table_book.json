@@ -6,7 +6,7 @@
       "item": "minecraft:writable_book"
     },
     {
-      "tag": "c:dyes/blue"
+      "tag": "forge:dyes/blue"
     }
   ],
   "result": {

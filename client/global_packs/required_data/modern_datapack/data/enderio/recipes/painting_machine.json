@@ -6,13 +6,13 @@
       "item": "gtceu:red_alloy_plate"
     },
     "B": {
-      "tag": "c:dyes/blue"
+      "tag": "forge:dyes/blue"
     },
     "C": {
       "item": "enderio:void_chassis"
     },
     "G": {
-      "tag": "c:dyes/green"
+      "tag": "forge:dyes/green"
     },
     "I": {
       "item": "gtceu:steel_plate"
@@ -21,7 +21,7 @@
       "item": "gtceu:steel_gear"
     },
     "R": {
-      "tag": "c:dyes/red"
+      "tag": "forge:dyes/black"
     }
   },
   "pattern": [

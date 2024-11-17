@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "c:dyes/red"
+      "tag": "forge:dyes/black"
     },
     "b": {
-      "tag": "c:dyes/black"
+      "tag": "forge:dyes/black"
     },
     "c": {
       "item": "minecraft:bone_meal"
