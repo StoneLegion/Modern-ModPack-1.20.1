@@ -18,7 +18,7 @@
     }
   },
   "result": {
-    "id": "fishermans_haven:upgraded_fish_trap",
+    "item": "fishermans_haven:upgraded_fish_trap",
     "count": 1
   }
 }

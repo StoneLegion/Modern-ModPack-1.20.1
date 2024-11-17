@@ -20,7 +20,7 @@
     }
   },
   "result": {
-    "id": "camera:camera",
+    "item": "camera:camera",
     "count": 1
   }
 }

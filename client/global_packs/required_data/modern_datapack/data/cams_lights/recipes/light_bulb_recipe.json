@@ -20,7 +20,7 @@
     }
   },
   "result": {
-    "id": "cams_lights:light_bulb",
+    "item": "cams_lights:light_bulb",
     "count": 1
   }
 }

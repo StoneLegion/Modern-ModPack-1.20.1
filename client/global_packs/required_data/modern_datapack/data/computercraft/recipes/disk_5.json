@@ -6,6 +6,6 @@
   "result": {
     "components": {"minecraft:dyed_color": {"rgb": 3368652, "show_in_tooltip": false}},
     "count": 1,
-    "id": "computercraft:disk"
+    "item": "computercraft:disk"
   }
 }

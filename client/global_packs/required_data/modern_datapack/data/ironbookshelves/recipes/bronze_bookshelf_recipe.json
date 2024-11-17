@@ -15,7 +15,7 @@
     }
   },
   "result": {
-    "id": "ironbookshelves:bronze_bookshelf",
+    "item": "ironbookshelves:bronze_bookshelf",
     "count": 1
   },
   "conditions": [

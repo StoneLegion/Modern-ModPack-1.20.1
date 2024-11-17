@@ -15,7 +15,7 @@
     }
   },
   "result": {
-    "id": "fishermans_haven:copper_fishing_rod",
+    "item": "fishermans_haven:copper_fishing_rod",
     "count": 1
   }
 }

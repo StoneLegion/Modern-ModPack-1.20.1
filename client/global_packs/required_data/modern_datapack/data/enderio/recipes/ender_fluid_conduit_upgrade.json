@@ -23,6 +23,6 @@
       "enderio:conduit": "enderio:ender_fluid"
     },
     "count": 8,
-    "id": "enderio:conduit"
+    "item": "enderio:conduit"
   }
 }

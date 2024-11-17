@@ -17,6 +17,6 @@
     }
   },
   "result": {
-    "id": "trashcans:item_trash_can"
+    "item": "trashcans:item_trash_can"
   }
 }

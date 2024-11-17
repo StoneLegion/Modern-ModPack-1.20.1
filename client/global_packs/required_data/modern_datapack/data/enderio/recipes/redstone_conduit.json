@@ -19,6 +19,6 @@
       "enderio:conduit": "enderio:redstone"
     },
     "count": 8,
-    "id": "enderio:conduit"
+    "item": "enderio:conduit"
   }
 }

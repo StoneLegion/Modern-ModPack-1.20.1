@@ -13,6 +13,6 @@
 		"O": { "item": "gtceu:obsidian_plate" }
     },
     "result": {
-        "id": "torchmaster:megatorch"
+        "item": "torchmaster:megatorch"
     }
 }

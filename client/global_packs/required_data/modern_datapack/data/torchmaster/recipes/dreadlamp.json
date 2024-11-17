@@ -12,6 +12,6 @@
         "B": { "item": "gtceu:stainless_steel_plate" }
     },
     "result": {
-        "id": "torchmaster:dreadlamp"
+        "item": "torchmaster:dreadlamp"
     }
 }

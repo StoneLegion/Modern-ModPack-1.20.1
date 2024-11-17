@@ -19,6 +19,6 @@
   ],
   "result": {
     "count": 1,
-    "id": "railcraft:item_loader"
+    "item": "railcraft:item_loader"
   }
 }

@@ -12,6 +12,6 @@
 		"O": { "item": "gtceu:obsidian_plate" }
     },
     "result": {
-        "id": "torchmaster:feral_flare_lantern"
+        "item": "torchmaster:feral_flare_lantern"
     }
 }
