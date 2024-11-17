@@ -15,7 +15,7 @@
       "tag": "c:dyes/black"
     },
     {
-      "tag": "c:dusts/redstone"
+      "item": "minecraft:redstone"
     }
   ],
   "result": {

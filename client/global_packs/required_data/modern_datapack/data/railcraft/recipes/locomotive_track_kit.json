@@ -12,7 +12,7 @@
       "item": "railcraft:signal_lamp"
     },
     {
-      "tag": "c:dusts/redstone"
+      "item": "minecraft:redstone"
     }
   ],
   "result": {

@@ -6,7 +6,7 @@
       "item": "minecraft:netherrack"
     },
     "b": {
-      "tag": "c:dusts/redstone"
+      "item": "minecraft:redstone"
     },
     "c": {
       "item": "minecraft:cauldron"

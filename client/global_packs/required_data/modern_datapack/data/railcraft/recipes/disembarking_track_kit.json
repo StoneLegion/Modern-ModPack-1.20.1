@@ -15,7 +15,7 @@
       "item": "minecraft:lead"
     },
     {
-      "tag": "c:dusts/redstone"
+      "item": "minecraft:redstone"
     }
   ],
   "result": {

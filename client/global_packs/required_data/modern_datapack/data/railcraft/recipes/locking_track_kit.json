@@ -15,7 +15,7 @@
       "item": "minecraft:sticky_piston"
     },
     {
-      "tag": "c:dusts/redstone"
+      "item": "minecraft:redstone"
     }
   ],
   "result": {

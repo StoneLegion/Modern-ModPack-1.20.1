@@ -18,7 +18,7 @@
       "item": "minecraft:note_block"
     },
     {
-      "tag": "c:dusts/redstone"
+      "item": "minecraft:redstone"
     }
   ],
   "result": {

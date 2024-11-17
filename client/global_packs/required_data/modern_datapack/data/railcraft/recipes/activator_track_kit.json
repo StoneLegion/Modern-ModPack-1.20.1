@@ -9,10 +9,10 @@
       "item": "railcraft:track_parts"
     },
     {
-      "tag": "c:dusts/redstone"
+      "item": "minecraft:redstone"
     },
     {
-      "tag": "c:dusts/redstone"
+      "item": "minecraft:redstone"
     }
   ],
   "result": {

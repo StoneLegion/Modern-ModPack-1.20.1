@@ -9,7 +9,7 @@
       "item": "gtceu:glowstone_plate"
     },
     "c": {
-      "tag": "c:dusts/redstone"
+      "item": "minecraft:redstone"
     }
   },
   "pattern": [

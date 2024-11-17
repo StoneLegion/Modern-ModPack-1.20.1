@@ -15,10 +15,10 @@
       "item": "railcraft:advanced_rail"
     },
     {
-      "tag": "c:dusts/redstone"
+      "item": "minecraft:redstone"
     },
     {
-      "tag": "c:dusts/redstone"
+      "item": "minecraft:redstone"
     }
   ],
   "result": {

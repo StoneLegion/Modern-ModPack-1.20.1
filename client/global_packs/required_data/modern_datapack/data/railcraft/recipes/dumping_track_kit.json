@@ -12,7 +12,7 @@
       "tag": "c:plates/steel"
     },
     {
-      "tag": "c:dusts/redstone"
+      "item": "minecraft:redstone"
     }
   ],
   "result": {

@@ -12,7 +12,7 @@
       "item": "minecraft:stone_button"
     },
     "d": {
-      "tag": "c:dusts/redstone"
+      "item": "minecraft:redstone"
     }
   },
   "pattern": [
