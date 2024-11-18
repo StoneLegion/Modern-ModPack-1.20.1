@@ -1,22 +1,25 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "boat",
   "pattern": [
-    "# #",
-    "###"
+    "PHP",
+    "PkP",
+    "SSS"
   ],
   "key": {
-    "#": {
+    "P": {
       "item": "quark:ancient_planks"
+    },
+    "S": {
+      "item": "quark:ancient_planks_slab"
+    },
+    "H": {
+      "tag": "minecraft:shovels"
+    },
+    "k": {
+      "tag": "forge:tools/knives"
     }
   },
   "result": {
     "item": "quark:ancient_boat"
-  },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "ancient_wood"
-    }
-  ]
+  }
 }

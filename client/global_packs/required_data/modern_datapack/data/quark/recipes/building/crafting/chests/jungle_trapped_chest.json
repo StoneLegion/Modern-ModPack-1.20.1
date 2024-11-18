@@ -1,20 +1,25 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    {
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " H ",
+    "SCS",
+    " d "
+  ],
+  "key": {
+    "H": {
+      "item": "minecraft:tripwire_hook"
+    },
+    "S": {
+      "tag": "forge:screws/iron"
+    },
+    "C": {
       "item": "quark:jungle_chest"
     },
-    {
-      "item": "minecraft:tripwire_hook"
+    "d": {
+      "tag": "forge:tools/screwdrivers"
     }
-  ],
+  },
   "result": {
     "item": "quark:jungle_trapped_chest"
-  },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "variant_chests"
-    }
-  ]
+  }
 }

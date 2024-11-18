@@ -1,21 +1,29 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "wooden_pressure_plate",
   "pattern": [
-    "##"
+    "SrS",
+    "LCL",
+    "SdS"
   ],
   "key": {
-    "#": {
-      "item": "quark:azalea_planks"
+    "S": {
+      "tag": "forge:bolts/wood"
+    },
+    "L": {
+      "item": "quark:azalea_planks_slab"
+    },
+    "C": {
+      "tag": "forge:springs/iron"
+    },
+    "r": {
+      "tag": "forge:tools/mallets"
+    },
+    "d": {
+      "tag": "forge:tools/screwdrivers"
     }
   },
   "result": {
-    "item": "quark:azalea_pressure_plate"
-  },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "azalea_wood"
-    }
-  ]
+    "item": "quark:azalea_pressure_plate",
+    "count": 2
+  }
 }

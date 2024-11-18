@@ -8,12 +8,12 @@
   ],
   "result": {
     "item": "quark:blossom_planks",
-    "count": 4
+    "count": 2
   },
   "conditions": [
     {
       "type": "quark:flag",
-      "flag": "blossom_trees"
+      "flag": "blossom_wood"
     }
   ]
 }

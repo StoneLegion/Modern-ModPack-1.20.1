@@ -1,24 +1,22 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "birch_chest",
   "pattern": [
-    "###",
-    "# #",
-    "###"
+    "LPL",
+    "PFP",
+    "LPL"
   ],
   "key": {
-    "#": {
+    "L": {
+      "item": "minecraft:birch_log"
+    },
+    "P": {
       "item": "minecraft:birch_planks"
+    },
+    "F": {
+      "item": "minecraft:flint"
     }
   },
   "result": {
-    "item": "quark:birch_chest",
-    "count": 1
-  },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "variant_chests"
-    }
-  ]
-} 
+    "item": "quark:birch_chest"
+  }
+}

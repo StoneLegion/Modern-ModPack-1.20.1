@@ -1,26 +1,26 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "N N",
-    "NIN",
-    "N N"
+    "SrS",
+    "SRS",
+    "ShS"
   ],
   "key": {
-    "I": {
-      "tag": "forge:ingots/iron"
+    "S": {
+      "item": "gtceu:iron_rod"
     },
-    "N": {
-      "tag": "forge:nuggets/iron"
+    "R": {
+      "item": "gtceu:iron_screw"
+    },
+    "r": {
+      "tag": "forge:tools/mallets"
+    },
+    "h": {
+      "tag": "forge:tools/hammers"
     }
   },
   "result": {
     "item": "quark:iron_ladder",
-    "count": 3
-  },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "iron_ladder"
-    }
-  ]
+    "count": 8
+  }
 }

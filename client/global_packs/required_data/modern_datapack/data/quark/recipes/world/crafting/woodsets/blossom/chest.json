@@ -1,33 +1,22 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "blossom_chest",
   "pattern": [
-    "###",
-    "# #",
-    "###"
+    "LPL",
+    "PFP",
+    "LPL"
   ],
   "key": {
-    "#": {
+    "L": {
+      "item": "quark:blossom_log"
+    },
+    "P": {
       "item": "quark:blossom_planks"
+    },
+    "F": {
+      "item": "minecraft:flint"
     }
   },
   "result": {
-    "item": "quark:blossom_chest",
-    "count": 1
-  },
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "type": "quark:flag",
-          "flag": "variant_chests"
-        },
-        {
-          "type": "quark:flag",
-          "flag": "blossom_trees"
-        }
-      ]
-    }
-  ]
-} 
+    "item": "quark:blossom_chest"
+  }
+}

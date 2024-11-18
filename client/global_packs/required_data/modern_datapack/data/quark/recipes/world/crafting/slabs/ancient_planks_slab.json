@@ -1,21 +1,18 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "###"
+    "sS"
   ],
   "key": {
-    "#": {
+    "S": {
       "item": "quark:ancient_planks"
+    },
+    "s": {
+      "tag": "forge:tools/saws"
     }
   },
   "result": {
     "item": "quark:ancient_planks_slab",
-    "count": 6
-  },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "ancient_wood"
-    }
-  ]
-} 
+    "count": 2
+  }
+}

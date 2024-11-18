@@ -1,23 +1,26 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "wooden_trapdoor",
   "pattern": [
-    "###",
-    "###"
+    "BPS",
+    "PdP",
+    "SPB"
   ],
   "key": {
-    "#": {
+    "P": {
       "item": "quark:ancient_planks"
+    },
+    "B": {
+      "tag": "forge:bolts/steel"
+    },
+    "S": {
+      "tag": "forge:rods/wooden"
+    },
+    "d": {
+      "tag": "forge:tools/screwdrivers"
     }
   },
   "result": {
     "item": "quark:ancient_trapdoor",
     "count": 2
-  },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "ancient_wood"
-    }
-  ]
+  }
 }

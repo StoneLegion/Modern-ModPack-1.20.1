@@ -1,24 +1,22 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "mangrove_chest",
   "pattern": [
-    "###",
-    "# #",
-    "###"
+    "LPL",
+    "PFP",
+    "LPL"
   ],
   "key": {
-    "#": {
+    "L": {
+      "item": "minecraft:mangrove_log"
+    },
+    "P": {
       "item": "minecraft:mangrove_planks"
+    },
+    "F": {
+      "item": "minecraft:flint"
     }
   },
   "result": {
-    "item": "quark:mangrove_chest",
-    "count": 1
-  },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "variant_chests"
-    }
-  ]
-} 
+    "item": "quark:mangrove_chest"
+  }
+}

@@ -1,27 +1,31 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "sign",
   "pattern": [
-    "###",
-    "###",
-    " X "
+    "LLL",
+    "RPR",
+    "sSd"
   ],
   "key": {
-    "#": {
+    "P": {
       "item": "quark:ancient_planks"
     },
-    "X": {
-      "item": "minecraft:stick"
+    "R": {
+      "tag": "forge:screws/iron"
+    },
+    "L": {
+      "item": "quark:ancient_planks_slab"
+    },
+    "S": {
+      "tag": "forge:rods/wooden"
+    },
+    "s": {
+      "tag": "forge:tools/saws"
+    },
+    "d": {
+      "tag": "forge:tools/screwdrivers"
     }
   },
   "result": {
-    "item": "quark:ancient_sign",
-    "count": 3
-  },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "ancient_wood"
-    }
-  ]
+    "item": "quark:ancient_sign"
+  }
 }

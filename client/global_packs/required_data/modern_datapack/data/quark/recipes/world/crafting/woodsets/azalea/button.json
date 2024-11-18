@@ -1,18 +1,18 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "group": "wooden_button",
-  "ingredients": [
-    {
-      "item": "quark:azalea_planks"
-    }
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sP"
   ],
-  "result": {
-    "item": "quark:azalea_button"
-  },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "azalea_wood"
+  "key": {
+    "P": {
+      "item": "quark:azalea_pressure_plate"
+    },
+    "s": {
+      "tag": "forge:tools/saws"
     }
-  ]
+  },
+  "result": {
+    "item": "quark:azalea_button",
+    "count": 6
+  }
 }

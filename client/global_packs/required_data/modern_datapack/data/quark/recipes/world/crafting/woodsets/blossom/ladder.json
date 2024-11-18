@@ -1,35 +1,26 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "# #",
-    "#W#",
-    "# #"
+    "SrS",
+    "SRS",
+    "ShS"
   ],
   "key": {
-    "#": {
-      "tag": "forge:rods/wooden"
+    "S": {
+      "tag": "forge:rods/wood"
     },
-    "W": {
+    "R": {
       "item": "quark:blossom_planks"
+    },
+    "r": {
+      "tag": "forge:tools/mallets"
+    },
+    "h": {
+      "tag": "forge:tools/hammers"
     }
   },
   "result": {
     "item": "quark:blossom_ladder",
-    "count": 4
-  },
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "type": "quark:flag",
-          "flag": "variant_ladders"
-        },
-        {
-          "type": "quark:flag",
-          "flag": "blossom_trees"
-        }
-      ]
-    }
-  ]
+    "count": 2
+  }
 }

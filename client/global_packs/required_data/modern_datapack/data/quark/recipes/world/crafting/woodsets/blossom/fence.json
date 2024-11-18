@@ -1,26 +1,19 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "wooden_fence",
   "pattern": [
-    "W#W",
-    "W#W"
+    "PSP",
+    "PSP",
+    "PSP"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:stick"
-    },
-    "W": {
+    "P": {
       "item": "quark:blossom_planks"
+    },
+    "S": {
+      "tag": "forge:rods/wooden"
     }
   },
   "result": {
-    "item": "quark:blossom_fence",
-    "count": 3
-  },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "blossom_trees"
-    }
-  ]
+    "item": "quark:blossom_fence"
+  }
 }

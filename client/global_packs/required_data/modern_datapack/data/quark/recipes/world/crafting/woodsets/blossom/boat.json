@@ -1,22 +1,25 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "boat",
   "pattern": [
-    "# #",
-    "###"
+    "PHP",
+    "PkP",
+    "SSS"
   ],
   "key": {
-    "#": {
+    "P": {
       "item": "quark:blossom_planks"
+    },
+    "S": {
+      "item": "quark:blossom_planks_slab"
+    },
+    "H": {
+      "tag": "minecraft:shovels"
+    },
+    "k": {
+      "tag": "forge:tools/knives"
     }
   },
   "result": {
     "item": "quark:blossom_boat"
-  },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "blossom_trees"
-    }
-  ]
+  }
 }

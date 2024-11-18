@@ -1,35 +1,26 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "# #",
-    "#W#",
-    "# #"
+    "SrS",
+    "SRS",
+    "ShS"
   ],
   "key": {
-    "#": {
-      "tag": "forge:rods/wooden"
+    "S": {
+      "tag": "forge:rods/wood"
     },
-    "W": {
+    "R": {
       "item": "quark:azalea_planks"
+    },
+    "r": {
+      "tag": "forge:tools/mallets"
+    },
+    "h": {
+      "tag": "forge:tools/hammers"
     }
   },
   "result": {
     "item": "quark:azalea_ladder",
-    "count": 4
-  },
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "type": "quark:flag",
-          "flag": "variant_ladders"
-        },
-        {
-          "type": "quark:flag",
-          "flag": "azalea_wood"
-        }
-      ]
-    }
-  ]
+    "count": 2
+  }
 }

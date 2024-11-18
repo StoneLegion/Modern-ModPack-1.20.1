@@ -1,22 +1,20 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "###",
-    "###"
+    " h ",
+    "XXX",
+    "XXX"
   ],
   "key": {
-    "#": {
-      "tag": "forge:ingots/gold"
+    "X": {
+      "item": "gtceu:gold_rod"
+    },
+    "h": {
+      "tag": "forge:tools/hammers"
     }
   },
   "result": {
     "item": "quark:gold_bars",
-    "count": 16
-  },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "gold_bars"
-    }
-  ]
+    "count": 8
+  }
 }

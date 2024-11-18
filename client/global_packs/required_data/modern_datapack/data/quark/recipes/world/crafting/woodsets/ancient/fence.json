@@ -1,26 +1,19 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "wooden_fence",
   "pattern": [
-    "W#W",
-    "W#W"
+    "PSP",
+    "PSP",
+    "PSP"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:stick"
-    },
-    "W": {
+    "P": {
       "item": "quark:ancient_planks"
+    },
+    "S": {
+      "tag": "forge:rods/wooden"
     }
   },
   "result": {
-    "item": "quark:ancient_fence",
-    "count": 3
-  },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "ancient_wood"
-    }
-  ]
+    "item": "quark:ancient_fence"
+  }
 }

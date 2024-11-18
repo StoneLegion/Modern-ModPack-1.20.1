@@ -1,26 +1,26 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "# #",
-    "#W#",
-    "# #"
+    "SrS",
+    "SRS",
+    "ShS"
   ],
   "key": {
-    "#": {
-      "tag": "forge:rods/wooden"
+    "S": {
+      "tag": "forge:rods/wood"
     },
-    "W": {
+    "R": {
       "item": "minecraft:warped_planks"
+    },
+    "r": {
+      "tag": "forge:tools/mallets"
+    },
+    "h": {
+      "tag": "forge:tools/hammers"
     }
   },
   "result": {
     "item": "quark:warped_ladder",
-    "count": 4
-  },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "variant_ladders"
-    }
-  ]
+    "count": 2
+  }
 }

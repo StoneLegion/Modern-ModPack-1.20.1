@@ -1,24 +1,22 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "dark_oak_chest",
   "pattern": [
-    "###",
-    "# #",
-    "###"
+    "LPL",
+    "PFP",
+    "LPL"
   ],
   "key": {
-    "#": {
+    "L": {
+      "item": "minecraft:dark_oak_log"
+    },
+    "P": {
       "item": "minecraft:dark_oak_planks"
+    },
+    "F": {
+      "item": "minecraft:flint"
     }
   },
   "result": {
-    "item": "quark:dark_oak_chest",
-    "count": 1
-  },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "variant_chests"
-    }
-  ]
-} 
+    "item": "quark:dark_oak_chest"
+  }
+}

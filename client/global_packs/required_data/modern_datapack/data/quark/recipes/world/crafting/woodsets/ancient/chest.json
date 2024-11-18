@@ -1,33 +1,22 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "ancient_chest",
   "pattern": [
-    "###",
-    "# #",
-    "###"
+    "LPL",
+    "PFP",
+    "LPL"
   ],
   "key": {
-    "#": {
+    "L": {
+      "item": "quark:ancient_log"
+    },
+    "P": {
       "item": "quark:ancient_planks"
+    },
+    "F": {
+      "item": "minecraft:flint"
     }
   },
   "result": {
-    "item": "quark:ancient_chest",
-    "count": 1
-  },
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "type": "quark:flag",
-          "flag": "variant_chests"
-        },
-        {
-          "type": "quark:flag",
-          "flag": "ancient_wood"
-        }
-      ]
-    }
-  ]
-} 
+    "item": "quark:ancient_chest"
+  }
+}

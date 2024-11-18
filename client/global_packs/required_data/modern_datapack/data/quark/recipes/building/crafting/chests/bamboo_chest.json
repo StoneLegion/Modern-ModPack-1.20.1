@@ -1,24 +1,22 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "bamboo_chest",
   "pattern": [
-    "###",
-    "# #",
-    "###"
+    "LPL",
+    "PFP",
+    "LPL"
   ],
   "key": {
-    "#": {
+    "L": {
+      "item": "minecraft:bamboo_block"
+    },
+    "P": {
       "item": "minecraft:bamboo_planks"
+    },
+    "F": {
+      "item": "minecraft:flint"
     }
   },
   "result": {
-    "item": "quark:bamboo_chest",
-    "count": 1
-  },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "variant_chests"
-    }
-  ]
-} 
+    "item": "quark:bamboo_chest"
+  }
+}

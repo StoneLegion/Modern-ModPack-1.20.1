@@ -1,33 +1,22 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "azalea_chest",
   "pattern": [
-    "###",
-    "# #",
-    "###"
+    "LPL",
+    "PFP",
+    "LPL"
   ],
   "key": {
-    "#": {
+    "L": {
+      "item": "quark:azalea_log"
+    },
+    "P": {
       "item": "quark:azalea_planks"
+    },
+    "F": {
+      "item": "minecraft:flint"
     }
   },
   "result": {
-    "item": "quark:azalea_chest",
-    "count": 1
-  },
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "type": "quark:flag",
-          "flag": "variant_chests"
-        },
-        {
-          "type": "quark:flag",
-          "flag": "azalea_wood"
-        }
-      ]
-    }
-  ]
-} 
+    "item": "quark:azalea_chest"
+  }
+}

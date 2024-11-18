@@ -1,24 +1,22 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "cherry_chest",
   "pattern": [
-    "###",
-    "# #",
-    "###"
+    "LPL",
+    "PFP",
+    "LPL"
   ],
   "key": {
-    "#": {
+    "L": {
+      "item": "minecraft:cherry_log"
+    },
+    "P": {
       "item": "minecraft:cherry_planks"
+    },
+    "F": {
+      "item": "minecraft:flint"
     }
   },
   "result": {
-    "item": "quark:cherry_chest",
-    "count": 1
-  },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "variant_chests"
-    }
-  ]
-} 
+    "item": "quark:cherry_chest"
+  }
+}
