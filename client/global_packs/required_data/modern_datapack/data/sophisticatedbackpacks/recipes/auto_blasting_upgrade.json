@@ -1,12 +1,11 @@
-      "item": "gtceu:red_alloy_plate"{
-  "neoforge:conditions": [
+{
+  "type": "sophisticatedcore:upgrade_next_tier",
+  "conditions": [
     {
       "type": "sophisticatedcore:item_enabled",
       "itemRegistryName": "sophisticatedbackpacks:auto_blasting_upgrade"
     }
   ],
-  "type": "sophisticatedcore:upgrade_next_tier",
-  "category": "misc",
   "key": {
     "D": {
       "item": "gtceu:diamond_plate"
@@ -30,7 +29,6 @@
     "GHG"
   ],
   "result": {
-    "count": 1,
     "item": "sophisticatedbackpacks:auto_blasting_upgrade"
   }
 }
