@@ -20,10 +20,10 @@
   },
   "conditions": [
     {
-      "type": "neoforge:not",
+      "type": "forge:not",
       "value": {
-        "type": "neoforge:tag_empty",
-        "tag": "forge:ingots/steel"
+        "type": "forge:tag_empty",
+        "tag": "forge:ingots/bronze"
       }
     }
   ]
