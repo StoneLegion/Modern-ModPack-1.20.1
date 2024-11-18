@@ -3,18 +3,14 @@
   "category": "misc",
   "key": {
     "a": {
-      "item": "railcraft:creosote_bottle"
-    },
-    "b": {
-      "tag": "minecraft:wooden_slabs"
+      "tag": "gtceu:treated_wood_slab"
     }
   },
   "pattern": [
-    " a ",
-    "bbb"
+    "aaa"
   ],
   "result": {
+    "count": 3,
     "item": "railcraft:wooden_tie"
-  },
-  "show_notification": true
+  }
 }
