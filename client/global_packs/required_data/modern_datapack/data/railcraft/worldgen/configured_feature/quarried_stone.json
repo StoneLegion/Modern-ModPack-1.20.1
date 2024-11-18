@@ -1,15 +1,18 @@
 {
-  "type": "railcraft:quarried",
+  "type": "minecraft:ore",
   "config": {
-    "state_provider": {
-      "type": "minecraft:simple_state_provider",
-      "state": {
-        "Name": "railcraft:quarried_stone"
+    "discard_chance_on_air_exposure": 0.0,
+    "size": 0,
+    "targets": [
+      {
+        "state": {
+          "Name": "railcraft:quarried_stone"
+        },
+        "target": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:base_stone_overworld"
+        }
       }
-    },
-    "target_provider": {
-      "predicate_type": "minecraft:tag_match",
-      "tag": "railcraft:quarried_replaceable_blocks"
-    }
+    ]
   }
 }
