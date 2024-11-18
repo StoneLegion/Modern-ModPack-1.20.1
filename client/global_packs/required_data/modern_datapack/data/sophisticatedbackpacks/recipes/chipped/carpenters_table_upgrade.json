@@ -1,7 +1,8 @@
 {
-  "neoforge:conditions": [
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
     {
-      "type": "neoforge:mod_loaded",
+      "type": "forge:mod_loaded",
       "modid": "chipped"
     },
     {
@@ -9,8 +10,6 @@
       "itemRegistryName": "sophisticatedbackpacks:chipped/carpenters_table_upgrade"
     }
   ],
-  "type": "minecraft:crafting_shaped",
-  "category": "misc",
   "key": {
     "B": {
       "item": "sophisticatedbackpacks:upgrade_base"
@@ -31,7 +30,6 @@
     " R "
   ],
   "result": {
-    "count": 1,
     "item": "sophisticatedbackpacks:chipped/carpenters_table_upgrade"
   }
 }
