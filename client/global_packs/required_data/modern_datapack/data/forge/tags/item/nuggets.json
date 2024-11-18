@@ -2,14 +2,14 @@
   "replace": false,
   "values": [],
   "remove": [
-    "#c:nuggets/steel",
-    "#c:nuggets/tin",
-    "#c:nuggets/zinc",
-    "#c:nuggets/brass",
-    "#c:nuggets/bronze",
-    "#c:nuggets/nickel",
-    "#c:nuggets/invar",
-    "#c:nuggets/silver",
-    "#c:nuggets/lead"
+    "#forge:nuggets/steel",
+    "#forge:nuggets/tin",
+    "#forge:nuggets/zinc",
+    "#forge:nuggets/brass",
+    "#forge:nuggets/bronze",
+    "#forge:nuggets/nickel",
+    "#forge:nuggets/invar",
+    "#forge:nuggets/silver",
+    "#forge:nuggets/lead"
   ]
 }
