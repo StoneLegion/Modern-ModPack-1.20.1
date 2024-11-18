@@ -15,10 +15,8 @@
     "BBB"
   ],
   "result": {
-    "components": {
-      "enderio:conduit": "enderio:redstone"
-    },
     "count": 8,
-    "item": "enderio:conduit"
-  }
+    "item": "enderio:redstone_conduit"
+  },
+  "show_notification": true
 }
