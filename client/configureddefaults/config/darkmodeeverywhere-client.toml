@@ -24,3 +24,4 @@ METHOD_SHADER_DUMP = false
 	#Pixels away from the bottom of the GUI in the y axis
 	#Range: > 0
 	MAIN_Y = 40
+
