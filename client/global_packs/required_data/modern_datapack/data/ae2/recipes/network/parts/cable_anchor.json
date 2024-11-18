@@ -1,11 +1,12 @@
 {
-  "type": "ae2:quartz_cutting",
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
   "ingredients": [
     {
-      "tag": "ae2:knife"
+      "item": "gtceu:rose_gold_plate"
     },
     {
-      "item": "gtceu:rose_gold_plate"
+      "tag": "ae2:knife"
     }
   ],
   "result": {
