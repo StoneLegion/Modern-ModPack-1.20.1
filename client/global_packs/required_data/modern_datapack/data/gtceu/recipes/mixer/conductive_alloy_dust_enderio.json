@@ -20,7 +20,7 @@
           "type": "gtceu:sized",
           "count": 1,
           "ingredient": {
-            "item": "kubejs:conductive_alloy_dust"
+            "item": "gtceu:iron_dust"
           }
         },
         "chance": 10000,
