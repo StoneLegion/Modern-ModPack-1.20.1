@@ -1,0 +1,6 @@
+{
+	"removed": [
+    "item:constructionwand:core_angel",
+    "item:constructionwand:core_destruction"
+	]
+}
