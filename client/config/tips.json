@@ -1,0 +1,13 @@
+{
+  "defaultCycleTime": 10000,
+  "ignoredNamespaces": [],
+  "ignoredTips": [],
+  "hideUnlocalizedTips": false,
+  "tipRenderWidthPercent": 0.90,
+  "defaultTitle": {
+    "bold": true,
+    "underlined": true,
+    "color": "yellow",
+    "translate": "tipsmod.title.default"
+  }
+}
