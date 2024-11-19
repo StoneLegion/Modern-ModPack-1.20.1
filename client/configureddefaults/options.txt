@@ -50,7 +50,7 @@ highContrast:false
 narratorHotkey:true
 resourcePacks:["gtceu:dynamic_assets","vanilla","mod_resources"]
 incompatibleResourcePacks:[]
-lastServer:
+lastServer:mc.stonelegion.com:4444
 lang:en_us
 chatVisibility:0
 chatOpacity:1.0
