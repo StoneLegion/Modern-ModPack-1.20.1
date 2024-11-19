@@ -1,3 +1,5 @@
+**Please Note:** that the Server Configs is mostly aimed at StoneLegion's Server Settings and that you are more then welcome to use them, but keep in mind their customized for us not all and might need some tweaking.
+
 # Mods to Not Include on the Server Side:
 
 - BetterF3-7.0.2-Forge-1.20.1.jar
