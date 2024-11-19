@@ -1,0 +1,52 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "starting_out"
+	group: ""
+	id: "5DE51A71FE0A2DF8"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "637DBA5DF5A52E21"
+			tasks: [{
+				icon: "minecraft:red_bed"
+				id: "2D31B9A933FA552E"
+				stat: "minecraft:sleep_in_bed"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			id: "31958F76D768A9A3"
+			tasks: [{
+				icon: "gtceu:copper_indicator"
+				id: "412A486666ADD8C2"
+				observe_type: 0
+				timer: 0L
+				to_observe: "gtceu:copper_indicator"
+				type: "observation"
+			}]
+			title: "Find Copper Vein"
+			x: -6.0d
+			y: -1.0d
+		}
+		{
+			id: "60046A76DDD36F70"
+			tasks: [{
+				icon: "gtceu:tin_indicator"
+				id: "0082543A15ACCA23"
+				observe_type: 0
+				timer: 0L
+				to_observe: "gtceu:tin_indicator"
+				type: "observation"
+			}]
+			title: "Find Tin Ore Vein"
+			x: -7.5d
+			y: -1.5d
+		}
+	]
+	title: "Starting Out"
+}
