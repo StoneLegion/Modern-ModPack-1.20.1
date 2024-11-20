@@ -1,0 +1,28 @@
+{
+	"type": "enderstorage:create_recipe",
+	"result": {
+		"item": "enderstorage:ender_chest"
+	},
+	"pattern": [
+		"BWB",
+		"OCO",
+		"BPB"
+	],
+	"key": {
+		"P": {
+			"item": "gtceu:quantum_eye"
+		},
+		"O": {
+			"item": "gtceu:dense_obsidian_plate"
+		},
+		"C": {
+			"item": "ae2:chest"
+		},
+		"B": {
+			"item": "minecraft:blaze_rod"
+		},
+		"W": {
+			"tag": "forge:wool"
+		}
+	}
+}
