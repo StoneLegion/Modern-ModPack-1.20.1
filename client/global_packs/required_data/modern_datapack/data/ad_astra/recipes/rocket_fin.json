@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "#": {
-      "tag": "ad_astra:steel_plates"
+      "item": "gtceu:double_stainless_steel_plate"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
     "# #"
   ],
   "result": {
-    "count": 4,
+    "count": 1,
     "item": "ad_astra:rocket_fin"
   },
   "show_notification": true
