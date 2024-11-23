@@ -2,7 +2,7 @@
   "type": "ad_astra:nasa_workbench",
   "ingredients": [
     {
-      "item": "ad_astra:rocket_nose_cone"
+      "item": "kubejs:rocket_nose_cone_t2"
     },
     {
       "tag": "ad_astra:desh_blocks"

@@ -2,7 +2,7 @@
   "type": "ad_astra:nasa_workbench",
   "ingredients": [
     {
-      "item": "ad_astra:rocket_nose_cone"
+      "item": "kubejs:rocket_nose_cone_t4"
     },
     {
       "tag": "ad_astra:calorite_blocks"
