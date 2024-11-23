@@ -2,6 +2,7 @@
   "replace": false,
   "values": [],
   "remove": [
-    "railcraft:iron_plate"
+    "railcraft:iron_plate",
+	"ad_astra:iron_plate"
   ]
 }

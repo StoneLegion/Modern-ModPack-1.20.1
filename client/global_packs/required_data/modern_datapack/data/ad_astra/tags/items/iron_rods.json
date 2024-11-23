@@ -1,5 +1,7 @@
 {
-  "values": [
+  "replace": false,
+  "values": [],
+  "remove": [
     "ad_astra:iron_rod",
     {
       "id": "#c:iron_rods",

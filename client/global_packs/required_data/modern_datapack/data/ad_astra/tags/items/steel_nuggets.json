@@ -1,5 +1,7 @@
 {
-  "values": [
+  "replace": false,
+  "values": [],
+  "remove": [
     "ad_astra:steel_nugget",
     {
       "id": "#c:steel_nuggets",

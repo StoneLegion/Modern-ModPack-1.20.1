@@ -2,6 +2,7 @@
   "replace": false,
   "values": [],
   "remove": [
-    "railcraft:steel_nugget"
+    "railcraft:steel_nugget",
+	"ad_astra:steel_nugget"
   ]
 }

@@ -1,5 +1,7 @@
 {
-  "values": [
+  "replace": false,
+  "values": [],
+  "remove": [
     "ad_astra:steel_plate",
     {
       "id": "#c:steel_plates",
