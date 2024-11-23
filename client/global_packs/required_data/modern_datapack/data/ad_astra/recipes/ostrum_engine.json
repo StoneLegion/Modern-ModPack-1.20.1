@@ -3,19 +3,22 @@
   "category": "misc",
   "key": {
     "#": {
-      "tag": "ad_astra:ostrum_plates"
+      "item": "ad_astra:ostrum_plate"
     },
     "E": {
-      "item": "ad_astra:desh_engine"
+      "item": "gtceu:iv_fluid_passthrough_hatch"
     },
     "F": {
-      "item": "ad_astra:fan"
+      "item": "ad_astra:desh_engine"
+    },
+    "G": {
+      "item": "gtceu:hv_electric_motor"
     }
   },
   "pattern": [
     "###",
     "#E#",
-    " F "
+    "GFG"
   ],
   "result": {
     "item": "ad_astra:ostrum_engine"
