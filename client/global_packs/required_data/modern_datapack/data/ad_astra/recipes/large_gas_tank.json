@@ -3,13 +3,13 @@
   "category": "misc",
   "key": {
     "#": {
-      "tag": "ad_astra:steel_plates"
+      "item": "ad_astra:desh_plate"
     },
     "G": {
       "item": "ad_astra:gas_tank"
     },
     "|": {
-      "item": "ad_astra:steel_rod"
+      "item": "gtceu:titanium_rod"
     }
   },
   "pattern": [
