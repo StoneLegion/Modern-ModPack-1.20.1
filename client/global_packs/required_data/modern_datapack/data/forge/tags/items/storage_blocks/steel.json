@@ -2,6 +2,7 @@
   "replace": false,
   "values": [],
   "remove": [
-    "railcraft:steel_block"
+    "railcraft:steel_block",
+	"ad_astra:steel_block"
   ]
 }
