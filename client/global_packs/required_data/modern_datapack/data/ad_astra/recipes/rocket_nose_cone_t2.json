@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "ad_astra:desh_plate"
+    },
+    "|": {
+      "item": "gtceu:ev_sensor"
+    },
+    "E": {
+      "item": "gtceu:ev_emitter"
+    }
+  },
+  "pattern": [
+    " | ",
+    "E#E",
+    "###"
+  ],
+  "result": {
+    "item": "kubejs:rocket_nose_cone_t2"
+  },
+  "show_notification": true
+}

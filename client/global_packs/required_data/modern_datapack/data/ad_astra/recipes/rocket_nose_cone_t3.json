@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "ad_astra:ostrum_plate"
+    },
+    "|": {
+      "item": "gtceu:iv_sensor"
+    },
+    "E": {
+      "item": "gtceu:iv_emitter"
+    }
+  },
+  "pattern": [
+    " | ",
+    "E#E",
+    "###"
+  ],
+  "result": {
+    "item": "kubejs:rocket_nose_cone_t3"
+  },
+  "show_notification": true
+}

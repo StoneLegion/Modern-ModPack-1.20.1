@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "ad_astra:calorite_plate"
+    },
+    "|": {
+      "item": "gtceu:luv_sensor"
+    },
+    "E": {
+      "item": "gtceu:luv_emitter"
+    }
+  },
+  "pattern": [
+    " | ",
+    "E#E",
+    "###"
+  ],
+  "result": {
+    "item": "kubejs:rocket_nose_cone_t4"
+  },
+  "show_notification": true
+}
