@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "#": {
-      "tag": "ad_astra:steel_plates"
+      "item": "gtceu:stainless_steel_plate"
     },
     "F": {
       "item": "ad_astra:fan"
@@ -12,10 +12,10 @@
       "item": "ad_astra:gas_tank"
     },
     "R": {
-      "item": "minecraft:redstone_block"
+      "item": "gtceu:hv_electric_pump"
     },
     "|": {
-      "item": "minecraft:lightning_rod"
+      "item": "gtceu:hv_machine_hull"
     }
   },
   "pattern": [
