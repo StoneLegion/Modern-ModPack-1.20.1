@@ -2,17 +2,20 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": {
-      "tag": "ad_astra:steel_plates"
+    "X": {
+      "item": "gtceu:clean_machine_casing"
     },
-    "|": {
-      "tag": "ad_astra:steel_rods"
+    "Z": {
+      "item": "gtceu:stainless_steel_frame"
+    },
+    "V": {
+      "item": "gtceu:hv_sensor"
     }
   },
   "pattern": [
-    "#|#",
-    "|#|",
-    "#|#"
+    "ZXZ",
+    "XVX",
+    "ZXZ"
   ],
   "result": {
     "item": "ad_astra:launch_pad"
