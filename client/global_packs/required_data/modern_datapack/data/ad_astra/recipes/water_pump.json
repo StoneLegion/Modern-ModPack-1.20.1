@@ -9,10 +9,10 @@
       "item": "ad_astra:gas_tank"
     },
     "H": {
-      "item": "minecraft:hopper"
+      "item": "gtceu:iv_output_hatch"
     },
     "S": {
-      "item": "gtceu:stainless_steel_plates"
+      "item": "gtceu:titanium_plate"
     }
   },
   "pattern": [
