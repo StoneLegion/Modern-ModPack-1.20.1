@@ -10,9 +10,9 @@
     }
   },
   "pattern": [
-    "| ",
-    "##",
-    "##"
+    " | ",
+    "# #",
+    "###"
   ],
   "result": {
     "item": "ad_astra:gas_tank"

@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "#": {
-      "tag": "ad_astra:steel_plates"
+      "item": "gtceu:titanium_plate"
     },
     "|": {
-      "item": "ad_astra:steel_rod"
+      "item": "gtceu:titanium_rod"
     }
   },
   "pattern": [
