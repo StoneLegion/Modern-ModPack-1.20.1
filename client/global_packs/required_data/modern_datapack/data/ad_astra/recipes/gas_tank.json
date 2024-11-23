@@ -7,11 +7,14 @@
     },
     "|": {
       "item": "gtceu:stainless_steel_rod"
+    },
+    "P": {
+      "item": "gtceu:hv_electric_pump"
     }
   },
   "pattern": [
     " | ",
-    "# #",
+    "#P#",
     "###"
   ],
   "result": {
