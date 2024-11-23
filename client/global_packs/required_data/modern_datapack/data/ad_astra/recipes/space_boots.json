@@ -7,11 +7,14 @@
     },
     "W": {
       "tag": "minecraft:wool"
+    },
+    "N": {
+      "item": "gtceu:nanomuscle_boots"
     }
   },
   "pattern": [
     "W W",
-    "# #"
+    "#N#"
   ],
   "result": {
     "item": "ad_astra:space_boots"

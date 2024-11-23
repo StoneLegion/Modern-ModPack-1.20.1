@@ -11,13 +11,16 @@
     "T": {
       "item": "ad_astra:gas_tank"
     },
+    "N": {
+      "item": "gtceu:nanomuscle_chestplate"
+    },
     "W": {
       "tag": "minecraft:wool"
     }
   },
   "pattern": [
-    "# #",
-    "TOT",
+    "#O#",
+    "TNT",
     "#W#"
   ],
   "result": {

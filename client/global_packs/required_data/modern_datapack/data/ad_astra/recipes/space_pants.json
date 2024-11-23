@@ -7,11 +7,14 @@
     },
     "W": {
       "tag": "minecraft:wool"
+    },
+    "N": {
+      "item": "gtceu:nanomuscle_leggings"
     }
   },
   "pattern": [
     "###",
-    "W W",
+    "WNW",
     "# #"
   ],
   "result": {
