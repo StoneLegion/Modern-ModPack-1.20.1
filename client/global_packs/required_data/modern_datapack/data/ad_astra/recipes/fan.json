@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "#": {
-      "tag": "ad_astra:steel_plates"
+      "item": "gtceu:stainless_steel_plate"
     },
     "|": {
-      "item": "ad_astra:steel_rod"
+      "item": "gtceu:stainless_steel_rotor"
     }
   },
   "pattern": [
