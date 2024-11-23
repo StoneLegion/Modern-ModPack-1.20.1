@@ -3,15 +3,18 @@
   "category": "misc",
   "key": {
     "#": {
-      "item": "gtceu:titanium_plate"
+      "item": "gtceu:stainless_steel_plate"
     },
     "|": {
-      "item": "gtceu:titanium_rod"
+      "item": "gtceu:stainless_steel_rod"
+    },
+    "P": {
+      "item": "gtceu:hv_electric_pump"
     }
   },
   "pattern": [
     " | ",
-    "#|#",
+    "#P#",
     "#|#"
   ],
   "result": {
